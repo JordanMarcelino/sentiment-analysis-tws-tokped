@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "sentiment-analysis-tws-tokped"
+version = "0.1.0"
+description = "Sentiment Analysis on Tokopedia product (TWS F9) using IndoBERT"
+authors = ["JordanMarcelino <jhordan.marcelino@gmail.com>", "Rendy Isdwanta <risdwanta@gmail.com>", "Benediktus Galih Pratama <benediktusgalihp@gmail.com>", "Rico Cristianto <revallorevallo2005>", "Verdinan Gilbert Gunawan <verdinan24@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+jupyter = "^1.0.0"
+transformers = "^4.39.1"
+nltk = "^3.8.1"
+pandas = "^2.2.1"
+numpy = "^1.26.4"
+scikit-learn = "^1.4.1.post1"
+seaborn = "^0.13.2"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.1.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
