@@ -20,178 +20,170 @@
     "ngak": "tidak",
     "nurul": "nalar",
     "joss": "mantap"
+    "nya" : , 
+    "lah" : ,
+    "seller" : "penjual",
+    "banget" : "sangat",
+    "dgn" : "dengan",
+    "aja" : ,
+    "sih" : ,
+    "pas" : ,
+    "ke" : ,
+    "tp" : "tapi",
+    "good" : "baik",
+    "nyala" : "menyala",
+    "cepet" : "cepat",
+    "bgt" : "sangat",
+    "sampe" : "sampai",
+    "dg" : "dengan",
+    "it" : "itu",
+    "jg" : "juga",
+    "worth" : "berharga",
+    "sdh" : "sudah",
+    "gan" : "untuk" ,
+    "gk" : "gak",
+    "mantep" : "mantap",
+    "udh" : "sudah",
+    "kwalitas" : "kualitas",
+    "dapet" : "dapat",
+    "mantab" : "mantap",
+    "deh" : ,
+    "n" : ,
+    "pun" : ,
+    "thanks" : "terima kasih",
+    "hp" : "handphone",
+    "beda" : "berbeda",
+    "f" : ,
+    "kok" : ,
+    "nggak" : "tidak",
+    "blm" : "belum",
+    "kuping" : "telinga",
+    "klo" : "kalo"
+    "mantul" : "mantap betul",
+    "si" : ,
+    "nyampe" : "sampai",
+    "so" : ,
+    "x" : ,
+    "overall" : "keseluruhan",
+    "moga" : "semoga",
+    "top" : "terbaik",
+    "tpi" : "tapi",
+    "far" : "jauh",
+    "cpt" : "cepat",
+    "bs" : "bisa",
+    "ny" : ,
+    "brg" : "barang",
+    "seler" : "seller / penjual ",
+    "krn" : "karena",
+    "dr" : "dari",
+    "nyambung" : "sambung",
+    "y" : "ya",
+    "mantapp" : "mantap",
+    "baguss" : "bagus",
+    "emang" : "memang",
+    "not" : "tidak",
+    "gimana" : "bagaimana",
+    "komplain" : "keluhan",
+    "warp" : "bungkus",
+    "gede" : "besar",
+    "gw" : "saya",
+    "gunakan" : "menggunakan",
+    "nyesel" : "menyesal",
+    "yaa" : "ya",
+    "hrg" : "harga",
+    "lg" : "lagi",
+    "cm" : "cuma",
+    "thx" : "terima kasih",
+    "cempreng" : ,
+    "dtg" : "datang"
+    "gada" : "tidak ada",
+    "box" : "kotak",
+    "dlu" : "dulu",
+    "gitu" : "begitu",
+    "nyangka" : "menyangka",
+    "ilang" : "hilang",
+    "smg" : "semoga",
+    "konek" : "terhubung",
+    "pesen" : "pesan",
+    "mantapppp" : "mantap",
+    "Mantul" : "mantap betul",
+    "aga" : "agak",
+    "ngga" : "tidak",
+    "HP" : "handphone",
+    "tq" : "terima kasih ",
+    "dpt" : "dapat",
+    "sy" : "saya",
+    "hrga" : "harga",
+    "jd" : "jadi",
+    "bas" : "bass",
+    "bet" : ,
+    "ngebas" : "ngebass",
+    "for" : "untuk",
+    "smoga" : "semoga",
+    "trims" : "terima kasih ",
+    "trima" : "terima",
+    "batrainya" : "baterainya",
+    "da" : ,
+    "mksh" : "terima kasih",
+    "toped" : "tokopedia",
+    "Mantab" : "mantap",
+    "pinzy" : ,
+    "rb" : "ribu",
+    "is" : ,
+    "mantaap" : "mantap",
+    "off" : "mati",
+    "josss" : "mantap",
+    "qualitas" : "kualitas",
+    "bales" : "balas",
+    "smpe" : "sampai",
+    "gabisa" : "tidak bisa",
+    "blom" : "belum",
+    "hedset" : "headset",
+    "gpp" : "tidak apa apa ",
+    "gokil" : "hebat",
+    "saller" : "seller",
+    "mantappp" : "mantap",
+    "dri" : "dari",
+    "denger" : "dengar",
+    "lowbat" : "low battery ",
+    "coy" : ,
+    "bngt" : "banget",
+    "trimakasih" : "terima kasih ",
+    "touch" : "sentuhan",
+    "treble" : ,
+    "buble" : "bubble",
+    "sempet" : "sempat",
+    "manteb" : "mantap",
+    "Joss" : "mantap",
+    "ama" : "dengan",
+    "bangett" : "banget",
+    "murmer" : "murah meriah ",
+    "putus\u00b2": "putus - putus ",
+    "bgus" : "bagus",
+    "kegedean" : "kebesaran",
+    "casan" : "cas an ",
+    "pedia" : "Tokopedia",
+    "bgs" : "bagus",
+    "kaget" : "terkejut",
+    "smpai" : "sampai",
+    "bgtt" : "banget",
+    "pict" : "gambar",
+    "ato" : "atau",
+    "Thanks" : "terima kasih",
+    "mah" : ,
+    "money" : "uang",
+    "sampenya" : "sampainya",
+    "meski" : "walaupun",
+    "sat" : ,
+    "aku" : "saya",
+    "Thank" : "terima kasih",
+    "you" : "kamu",
+    "pelan" : "lambat",
+    "mendem" : "terpendam",
+    "pic" : "gambar",
+    "ngisi" : "isi",
+    "dng" : "dengan",
+    "sm" : "sama",
+    "pb" : "power bank",
 }
 
-{
-    nya = 
-    yg = yang
-    lah = 
-    ga = 
-    seller = penjual
-    banget = sangat
-    dgn = dengan
-    gak = tidak
-    aja =
-    sih = 
-    pas = 
-    ke = 
-    tp = tapi
-    good = baik
-    nyala = menyala
-    cepet = cepat
-    bgt = sangat
-    sampe = sampai
-    dg = dengan
-    it = itu
-    jg = juga
-    worth = berharga
-    sdh = sudah
-    tdk = tidak
-    gan = untuk 
-    gk = gak
-    mantep = mantap
-    udh = sudah
-    kwalitas = kualitas
-    dapet = dapat
-    mantab = mantap
-    deh = 
-    n = 
-    pun = 
-    thanks = terima kasih
-    hp = handphone
-    beda = berbeda
-    f =
-    kok =
-    nggak = tidak
-    blm = belum
-    kuping = telinga
-    klo = kalo
-    mantul = mantap betul
-    si =
-    nyampe = sampai
-    so = 
-    x = 
-    overall = keseluruhan
-    moga = semoga
-    top = terbaik
-    tpi = tapi
-    joss = mantap
-    far = jauh
-    cpt = cepat
-    bs = bisa
-    ny = 
-    brg = barang
-    seler = seller / penjual
-    krn = karena
-    dr = dari
-    nyambung = sambung
-    y = ya
-    mantapp = mantap
-    baguss = bagus
-    emang = memang
-    not = tidak
-    gimana = bagaimana
-    komplain = keluhan
-    warp = bungkus
-    gede = besar
-    gw = saya
-    gunakan = menggunakan
-    nyesel = menyesal
-    yaa = ya
-    hrg = harga
-    lg = lagi
-    cm = cuma
-    thx = terima kasih
-    cempreng = 
-    dtg = datang
-    gada = tidak ada
-    box = kotak
-    dlu = dulu
-    gitu = begitu
-    nyangka = menyangka
-    ilang = hilang
-    smg = semoga
-    konek = terhubung
-    pesen = pesan
-    mantapppp = mantap
-    Mantul = mantap betul
-    aga = agak
-    ngga = tidak
-    HP = handphone
-    tq = terima kasih
-    dpt = dapat
-    sy = saya
-    hrga = harga
-    jd = jadi
-    bas = bass
-    bet =
-    ngebas = ngebass
-    for = untuk
-    smoga = semoga
-    trims = terima kasih
-    trima = terima
-    batrainya = baterainya
-    da =
-    mksh = makasih
-    toped = tokopedia
-    Mantab = mantap
-    pinzy = 
-    rb = ribu
-    is = 
-    mantaap = mantap
-    off = mati
-    ni = 
-    josss = mantap
-    qualitas = kualitas
-    bales = balas
-    smpe = sampai
-    gabisa = tidak bisa
-    blom = belum
-    hedset = headset
-    gpp = tidak apa apa
-    gokil = hebat
-    saller = seller
-    mantappp = mantap
-    dri = dari
-    denger = dengar
-    lowbat = low battery
-    coy = 
-    bngt = banget
-    trimakasih = terima kasih
-    touch = sentuhan
-    treble = 
-    buble = bubble
-    sempet = sempat
-    manteb = mantap
-    Joss = mantap
-    ama = dengan
-    bangett = banget
-    murmer = murah meriah
-    putus\u00b2 = putus - putus
-    bgus = bagus
-    kegedean = kebesaran
-    casan = cas an
-    pedia = Tokopedia
-    bgs = bagus
-    kaget = terkejut
-    smpai = sampai
-    bgtt = banget
-    pict = gambar
-    ato = atau
-    Thanks = terima kasih
-    mah = 
-    money = uang
-    sampenya = sampainya
-    meski = walaupun
-    sat =
-    aku = saya
-    Thank = terima kasih
-    you = kamu
-    pelan = lambat
-    mendem = terpendam
-    pic = gambar
-    ngisi = isi
-    dng = dengan
-    sm = sama
-    pb = power bank    
-}
