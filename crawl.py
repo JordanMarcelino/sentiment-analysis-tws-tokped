@@ -14,6 +14,7 @@ def get_data(url) -> list:
 
     datas = []
 
+    page = 1
     while True:
         try:
             next = driver.find_elements(
@@ -35,8 +36,12 @@ def get_data(url) -> list:
                 except Exception:
                     pass
 
-            if next.get_attribute("disable") is not None:
+            if next.get_attribute("disabled") is not None:
+                print("Done")
                 break
+
+            print(f"Page {page}")
+            page += 1
 
             next.click()
             time.sleep(2)
