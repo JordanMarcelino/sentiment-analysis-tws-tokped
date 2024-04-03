@@ -13,7 +13,7 @@ rating,comment,sentiment,clean_comment
 5,mantap ga mengecewakan beli disini selain cepat,positive,mantap tidak kecewa beli sini cepat
 5,"barang sampai dengan baik, dan lengkap",positive,barang dengan baik lengkap
 5,berfungsi dengan baik,positive,fungsi baik
-2,pengiriman ok sayang kualitas tdk sesuai headset sebelah kiri tdk bisa di on (sll off) tempat charger nya jg tdk hidup saat diangkat headset keduanya.,negative,kirim ok sayang kualitas tidak sesuai headset belah kiri tidak di on selalu mati tempat charger juga tidak hidup angkat headset dua
+2,pengiriman ok sayang kualitas tdk sesuai headset sebelah kiri tdk bisa di on (sll off) tempat charger nya jg tdk hidup saat diangkat headset keduanya.,negative,kirim ok sayang kualitas tidak sesuai headset belah kiri tidak di on selalu mati tempat charger juga tidak hidup angkat headset
 5,bagus,positive,bagus
 5,berfungsi dengan baik. respon cepat.,positive,fungsi baik respon cepat
 5,sesuai pesanan,positive,sesuai pesan
@@ -37,7 +37,7 @@ rating,comment,sentiment,clean_comment
 5,mantabs,positive,mantap
 5,manteb sehhh ini dengan harga segitu,positive,mantap sih dengan harga segitu
 5,"barang bagus, berfungsi dengan baik, pas dicas juga tidak kendor, overall mantap lah",positive,barang bagus fungsi baik pas cas tidak kendor seluruh mantap
-3,salah satu bagian tidak berfungsi semestinya,neutral,salah satu bagi tidak fungsi mesti
+3,salah satu bagian tidak berfungsi semestinya,neutral,salah satu tidak fungsi mesti
 5,"packing aman rapih, suara bagus gada yang rusak siih",positive,packing aman rapih suara bagus tidak yang rusak
 5,"packing rapi seller ramah, pokoknya the best🔥🔥🔥🔥",positive,packing rapi jual ramah pokok the best
 5,"berfungsi dgn baik qualitas sesuai dgn harga, lumayan dahhh",positive,fungsi baik kualitas sesuai harga lumayan
@@ -57,11 +57,11 @@ rating,comment,sentiment,clean_comment
 5,untuk harga segini oke lah. bass masih kurang. pairing stereo sering putus. jarak conecting ga bs terlalu jauh. batre agak cepet habis. kualitas sesuai dengannharga,positive,harga gin oke bass kurang stereo sering putus jarak hubung tidak terlalu jauh baterai cepat habis kualitas sesuai dengannharga
 5,"packing rapi dan kuat, proses kirim cepat, barang berfungsi baik..",positive,packing rapi kuat proses kirim cepat barang fungsi baik
 5,"barang sesuai pesanan, proses dan pengiriman cepat, cuma selernya rada lama bales chat mungkin lagi banyak pesanan, barang sudah dicoba dan berfungsi dengan baik. semoga...",positive,barang sesuai pesan proses kirim cepat cuma jual rada lama balas chat mungkin banyak pesan barang coba fungsi baik moga
-3,"warna,ny tidak sesuai",neutral,warna ny tidak sesuai
+3,"warna,ny tidak sesuai",neutral,warna tidak sesuai
 3,"kabel cas micro tidak berfungsi, sisanya aman",neutral,kabel cas mikro tidak fungsi sisa aman
 4,"ngebass cokk, gacocok ama kuping gw tapi pasti bakalan cocok ama kuping kalian yg suka suara ngebass a.k.a semberr, vocok buat kuping orang indo yg doyang dangdut tapi ga...",positive,ngebass tidak cocok telinga bakal cocok telinga kalian suka suara ngebass k sember cocok buat telinga orang indonesia doyan dangdut tapi tidak
 5,bass nendang batre lumayan awet,positive,bass nendang baterai lumayan awet
-5,"untuk harga segini udah seneng deh kalo bisa berfungsi dengan baik. tap untuk pause n play juga berfungsi, tap untuk naik turunin volume juga berfungsi walau agak sedikit...",positive,harga gin udah senang deh kalo fungsi baik tap pause fungsi tap naik turunin volume fungsi agak sedikit
+5,"untuk harga segini udah seneng deh kalo bisa berfungsi dengan baik. tap untuk pause n play juga berfungsi, tap untuk naik turunin volume juga berfungsi walau agak sedikit...",positive,harga gin udah senang deh kalo fungsi baik tap pause fungsi tap naik turunin volume juga fungsi agak sedikit
 5,"barang sudah saya terima dengan baik, tws nya bagus, suara bass mantap benar kerasa banget volume suara kenceng, gak nyesel pokok nya, semoga awet.",positive,barang saya terima baik tws bagus suara bass mantap benar rasa sangat volume suara kenceng tidak nyesal pokok moga awet
 5,manttapppp,positive,mantap
 5,mantap dah berfungsi semua,positive,mantap dah fungsi semua
@@ -91,19 +91,19 @@ rating,comment,sentiment,clean_comment
 3,"tempat dusnya seperti tidak baru, sama kalau dipakai sering putus² suaranya.",neutral,tempat dus tidak baru sama kalau pakai sering putus suara
 5,paket dah sampai..paket lengkap dan sesuai.. mudah-mudahan berfungsi dengan baik.. terima kasih.,positive,paket dah paket lengkap sesuai mudah mudah fungsi baik terima kasih
 5,"barang sesuai, paket rapih",positive,barang sesuai paket rapih
-4,"barangnya sih ok...tp kenapa yaa kemasan bagian dalamnya ada yg rusak atau bolong, tolong utk sellernya memperhatikan kemasan dalamnya meskipun barangnya oke atau dalam k...",positive,barang sih ok kenapa kemas bagi dalam yang rusak bolong untuk sellernya perhati kemas dalam meski barang oke dalam
+4,"barangnya sih ok...tp kenapa yaa kemasan bagian dalamnya ada yg rusak atau bolong, tolong utk sellernya memperhatikan kemasan dalamnya meskipun barangnya oke atau dalam k...",positive,barang sih ok kenapa kemas yang rusak bolong untuk sellernya perhati kemas dalam meski barang oke dalam
 5,"bagus, tqpi masih kk yg m10",positive,bagus masih kakak
 5,barang sesuai,positive,barang sesuai
 5,"ya lumayan, pengiriman baik, packing baik, qualitas barang ya sesuai harga, suara agak sempreng.",positive,lumayan kirim baik packing baik kualitas barang sesuai harga suara cempreng
 5,fast response dari spek di kardus sih udah bluetooth 5. sesuai spek,positive,cepat respon spesifikasi kardus sih udah bluetooth sesuai spesifikasi
 2,"barang sudah sampai, tapi twsnya kanan semua, apa pas pairing tidak dicek lagi?",negative,barang sampai twsnya kanan semua apa pas tidak cek
-4,"barang nya berfungsi dengan baik, sesuai dengan harganya. cuma packingnya alakadarnya sampai-sampai box nya penyok. untung aja isinya aman. diperbaiki lagi buat pelayanan...",positive,barang fungsi baik sesuai harga cuma packingnya ada sampai kotak penyok untung aja isi aman baik buat layan
+4,"barang nya berfungsi dengan baik, sesuai dengan harganya. cuma packingnya alakadarnya sampai-sampai box nya penyok. untung aja isinya aman. diperbaiki lagi buat pelayanan...",positive,barang fungsi baik sesuai harga cuma packingnya sampai kotak penyok untung aja isi aman baik buat layan
 5,ok..mntapp...,positive,ok mntapp
 5,"pengiriman cepat, pesan sekarang besok sudah sampai, suara jg lumayan meskipun harga murah",positive,kirim cepat pesan sekarang besok sampai suara lumayan meski harga murah
 4,"paket sudah mendarat masih belum di coba, masih sibuk.. semoga awet 🙏 *4 dulu",positive,paket darat belum coba sibuk moga awet dulu
 5,bagus,positive,bagus
 5,mantab barang bgus dan berkualitas terimakasih kak,positive,mantap barang bagus kualitas terima kasih kak
-5,"terima kasih barang sudah diterima, bentuk headset bagus dan koneksi mudab serta suaranya juga nyaman, keduanya berfungsi. sukses selalu!",positive,terima kasih barang terima bentuk headset bagus koneksi mudah suara nyaman dua fungsi sukses selalu
+5,"terima kasih barang sudah diterima, bentuk headset bagus dan koneksi mudab serta suaranya juga nyaman, keduanya berfungsi. sukses selalu!",positive,terima kasih barang terima bentuk headset bagus koneksi mudah suara nyaman fungsi sukses selalu
 5,sesuai tidak mengecawakan,positive,sesuai tidak kecewa
 5,bagus next order lagi,positive,bagus next order
 5,sudah 1 bulan di pakai baru review. baterai masih lumayan awet 3 jam an.,positive,bulan pakai baru review baterai lumayan awet jam an
@@ -125,12 +125,12 @@ rating,comment,sentiment,clean_comment
 4,lumayan sesuai harga,positive,lumayan sesuai harga
 4,sesuai dengan harganya lah,positive,sesuai harga
 5,barang aman all mantap lah,positive,barang aman all mantap
-4,"kedua produk diterima dengan baik. yang satu berfungsi sempurna. yang satu lagi, produk diterima dengan tanpa segel plastik, salah satu earpiece-nya tidak berfungsi, bahk...",positive,dua produk terima baik satu fungsi sempurna satu produk terima tanpa segel plastik salah satu earpiece tidak fungsi
+4,"kedua produk diterima dengan baik. yang satu berfungsi sempurna. yang satu lagi, produk diterima dengan tanpa segel plastik, salah satu earpiece-nya tidak berfungsi, bahk...",positive,produk terima baik satu fungsi sempurna satu produk terima tanpa segel plastik salah satu earpiece tidak fungsi
 5,"packing aman, rapi. tws berfungsi dg baik. suara bagus. semoga awet",positive,packing aman rapi tws fungsi baik suara bagus moga awet
 5,"terima kasih barang sudah cepat sampai, tapi tahan tidak terlalu lama klo dengar musik, yg kiri seperti nya aga bermasalah sedikit, tapi semoga awet",positive,terima kasih barang cepat tahan tidak terlalu lama kalo dengar musik kiri nya masalah sedikit tapi moga awet
 5,good,positive,bagus
 4,"barang cepat sampai, tp masih bingung pengoperasiannya..",positive,barang cepat tapi bingung operasi
-5,tws sekaligus untuk powerbank bagus banget dan masih menggunakan kabel casan kabel usb belum type c,positive,tws sekaligus powerbank bagus sangat masih guna kabel charger kabel usb type
+5,tws sekaligus untuk powerbank bagus banget dan masih menggunakan kabel casan kabel usb belum type c,positive,tws sekaligus powerbank bagus sangat masih kabel charger kabel usb type
 5,lumayan lah,positive,lumayan
 4,"barang sesuai harga, good lah",positive,barang sesuai harga bagus
 4,"packing aman banget. alhamdulillah. langsung di cas, setelah angka menunjukkan 100 💯 baru saya coba suaranya enak jernih ya sesuai dg file yg diputar. lumayan sekali lo...",positive,packing aman sangat alhamdulillah langsung cas angka tunjuk baru coba suara enak jernih sesuai file putar lumayan sekali
@@ -162,11 +162,11 @@ rating,comment,sentiment,clean_comment
 4,👍 ok laah,positive,ok laah
 5,"kualitas ok, harga murah",positive,kualitas ok harga murah
 1,"penjual setelah barang sampai dan kita komplen tidak ada tanggapan di chat lampu led hanya nyala sebelah dan hedset kadang nyambung kadang juga kagak, *** emang buang bua...",negative,jual barang komplain tidak tanggap chat lampu led nyala belah dan headset kadang nyambung kadang tidak memang buang
-5,paket headset bluetooth nya sdh sampek pengiriman cepat blom di coba dan ngga bisa kasih lihat fotonya krn msh pergi luar kota makasih penjual dan toko pedia 🙏,positive,paket headset bluetooth sudah kirim cepat di coba tidak kasih lihat foto masih pergi luar kota terima kasih jual toko dia
+5,paket headset bluetooth nya sdh sampek pengiriman cepat blom di coba dan ngga bisa kasih lihat fotonya krn msh pergi luar kota makasih penjual dan toko pedia 🙏,positive,paket headset bluetooth sudah kirim cepat di coba tidak kasih lihat foto masih pergi luar kota terima kasih jual toko
 5,pesenan sudah sampai sudah aq coba normal moga awet... terimakasih,positive,pesan sampai aku coba normal moga awet terima kasih
 5,"bagus ga ada delay, lancar, rekomendasi banget buat yang cari tws murah dengan kualitas bagus",positive,bagus tidak delay lancar rekomendasi sangat buat cari tws murah kualitas bagus
 5,top,positive,baik
-5,"koneksinya per headset, jadi di hp ada 2 bt dan bisa dijoinkan klo mau dipakai ke 2 nya. utk kwalitas suara sdh cukup lumayan... 👍👍👍",positive,koneksi headset jadi ponsel bt bisa dijoinkan kalo mau pakai nya kualitas suara cukup lumayan
+5,"koneksinya per headset, jadi di hp ada 2 bt dan bisa dijoinkan klo mau dipakai ke 2 nya. utk kwalitas suara sdh cukup lumayan... 👍👍👍",positive,koneksi tiap headset jadi ponsel bt bisa dijoinkan kalo mau pakai nya kualitas suara cukup lumayan
 5,headsetnya bagus untung sampai dengan selamat tapi saat tb di sini kardus dan packaging nya kurang baik itu aja sih makasih,positive,headsetnya bagus untung dengan selamat saat tiba sini kardus emas kurang baik aja sih terima kasih
 5,suara okelah..... untuk harga segini worth it lah yah,positive,suara oke harga gin harga yah
 4,sesuai harga ringkih,positive,sesuai harga ringkih
@@ -178,13 +178,13 @@ rating,comment,sentiment,clean_comment
 5,lumayanlah,positive,lumayan
 5,bagus....nyala semua .harga murmer udah dapet tws canggih....semoga awet deh.,positive,bagus nyala semua harga murah riah udah tws canggih moga awet deh
 5,berpungsi baik semoga awet,positive,fungsi baik moga awet
-1,"suara ny d luar expetasi..... ber hrap bass ny bgus,trnyta zonkkkkkkkk",negative,suara ny luar ekspektasi ber harap bass ny bagus trnyta jelek
+1,"suara ny d luar expetasi..... ber hrap bass ny bgus,trnyta zonkkkkkkkk",negative,suara di luar ekspektasi ber harap bass bagus trnyta jelek
 5,barang bagus sesuai sama harganya 👍🏻,positive,barang bagus sesuai sama harga
 5,seneng banget pesanan nya udah datang dan cepet banget sampai nya 😆,positive,senang sangat pesan udah datang cepat sangat nya
 5,mantap dapet discount.. brg ok bertungsu dgn baik,positive,mantap diskon barang ok fungsi baik
 5,barang sudan didterima,positive,barang terima
 5,"type bluetooth bukan f9, dan ini bukan produk original, dulu pernah beli yg ori beda ama yg ini",positive,type bluetooth bukan bukan produk original dulu pernah beli ori beda yang ini
-5,"packing aman. baterai tahan lama. ada slot usb untuk output, sepertinya bisa untuk power bank? suara ok",positive,packing aman baterai tahan lama slot usb keluar seperti untuk power bank suara ok
+5,"packing aman. baterai tahan lama. ada slot usb untuk output, sepertinya bisa untuk power bank? suara ok",positive,packing aman baterai tahan lama slot usb keluar bisa power bank suara ok
 5,mantap,positive,mantap
 1,"cable usb tdk bs koneksi ke wireless headset, buka boks wireless susah",negative,kabel usb tidak koneksi wireless headset buka boks wireless susah
 5,"alhamdulillah berang udah nyampe dan pengirimannya cepat ,belum di coba sih",positive,alhamdulillah barang udah dan kirim cepat di coba sih
@@ -195,7 +195,7 @@ rating,comment,sentiment,clean_comment
 5,"packingnya rapi bangett , barangnya juga okee 🐰🐰🐰",positive,packingnya rapi banget barang oke
 5,wireless headset luar biasa bagus banget suaranya ngebaaasss .. jernihnya suara dalam telinga ku tokonya amanah.. terimakasih and kurirnya... terimakasih bang..and tak lu...,positive,wireless headset luar biasa bagus sangat suara ngebas jernih suara telinga ku toko amanah terima kasih and kurir terima kasih bang and tak lu
 5,"bgs jg lmyn lah dgn hrg segitu yg ptg tws bs dngr music, main game dan tlpan tq",positive,bagus lumayan harga segitu penting tws dengar music main game telpon terima kasih
-5,nyampenya cepet barang ok gaada kendala,positive,sampai cepat barang ok gaada kendala
+5,nyampenya cepet barang ok gaada kendala,positive,cepat barang ok gaada kendala
 4,kaget saya kira headset nya mati sebelah ternyata cuma bisa di pakai satu aja,positive,kejut kira headset mati belah nyata cuma di pakai satu aja
 5,mantab pengiriman cepat..kualitas suara bass nya ada..top lah sesuai harga dan ga kecewa,positive,mantap kirim cepat kualitas suara bass ada baik sesuai harga tidak kecewa
 5,"not bad, semoga awet",positive,tidak bad moga awet
@@ -243,7 +243,7 @@ rating,comment,sentiment,clean_comment
 4,bagus,positive,bagus
 1,"sesuai harga, pasti salah satu ada yg mati ntah kanan ato kiri",negative,sesuai harga salah satu yang mati ntah kanan kiri
 5,sesuai order,positive,sesuai order
-4,"packing pengiriman bagus, tapi untuk keadaan barang didalamnya serba terbuka tidak rapi, cek suara good, mic juga ok ga bisa nuntut banyak dilihat dari harga juga, pengis...",positive,packing kirim bagus untuk ada barang dalam serba buka tidak rapi cek suara bagus mic ok tidak tuntut banyak lihat harga isi
+4,"packing pengiriman bagus, tapi untuk keadaan barang didalamnya serba terbuka tidak rapi, cek suara good, mic juga ok ga bisa nuntut banyak dilihat dari harga juga, pengis...",positive,packing kirim bagus untuk barang serba buka tidak rapi cek suara bagus mic ok tidak tuntut banyak lihat harga isi
 5,"sampai dengan aman, berfungsi dengan baik & sesuai ekspektasi",positive,aman fungsi dengan baik sesuai ekspektasi
 5,"bagus, berfungsi",positive,bagus fungsi
 5,mantappppp,positive,mantap
@@ -273,8 +273,8 @@ rating,comment,sentiment,clean_comment
 5,value for the money! tapi tetep nggak nyangka untuk harga segitu decent quality banget,positive,value the uang tetep tidak sangka harga segitu baik quality sangat
 5,good,positive,bagus
 5,"barang sudah sesuai pesanan,terima kasih",positive,barang sesuai pesan terima kasih
-5,cepet buanget sampenya kualitas ok berfungsi dgn baik suara jernih harga terjangkau sukses trus ya,positive,cepat banget sampai kualitas ok fungsi baik suara jernih harga jangkau sukses trus
-5,mantap jiwa.. cepat sampenya,positive,mantap jiwa cepat sampai
+5,cepet buanget sampenya kualitas ok berfungsi dgn baik suara jernih harga terjangkau sukses trus ya,positive,cepat banget kualitas ok fungsi baik suara jernih harga jangkau sukses trus
+5,mantap jiwa.. cepat sampenya,positive,mantap jiwa cepat
 5,"barang bagus, pengiriman cepat. saller top",positive,barang bagus kirim cepat jual baik
 4,lumayan lah,positive,lumayan
 5,"bagus barangnya sudah sampai, dan setelah saya coba awalnya ngiranya satunya rusak tidak ada suaranya, ternyata tinggal ngikutin kertas panduannya sudah selesai masalahny...",positive,bagus barang sampai telah coba awal ngiranya satu rusak tidak suara nyata tinggal ngikutin kertas pandu selesai masalah
@@ -312,8 +312,8 @@ rating,comment,sentiment,clean_comment
 5,gausah ngarep lebih. buat punya²an oke banget,positive,tidak usah harap lebih buat punya an oke sangat
 5,"mantap, barang oke ga ada masalah semua nya.. pengiriman nya pun juga cepat... recommended seller...",positive,mantap barang oke tidak masalah semua kirim pun cepat jual
 5,blm dcoba berfungsi apa engga.smg berfungsi.terimakasih mimin,positive,coba fungsi apa tidak moga fungsi terima kasih mimin
-4,"barang ok bgt, pengiriman juga cepat, packing rapi,, poko ny ok lah bass ny mantep",positive,barang ok sangat kirim cepat packing rapi pokok ny ok bass ny mantap
-3,"untuk kemasannya bagus pengirimannya cepat respon pelayanannya baik,akan tetapi kualitas barangnya ada sedikit kecacatan/kerusakan. bukannya saya ingin menjatuhkan ataupu...",neutral,kemas bagus kirim cepat respon layan baik tetapi kualitas barang sedikit cacat rusa bukan ingin jatuh atau
+4,"barang ok bgt, pengiriman juga cepat, packing rapi,, poko ny ok lah bass ny mantep",positive,barang ok sangat kirim cepat packing rapi pokok ok bass mantap
+3,"untuk kemasannya bagus pengirimannya cepat respon pelayanannya baik,akan tetapi kualitas barangnya ada sedikit kecacatan/kerusakan. bukannya saya ingin menjatuhkan ataupu...",neutral,kemas bagus kirim cepat respon layan baik tetapi kualitas barang sedikit cacat rusa bukan ingin jatuh
 5,joss barang bagus sesuai,positive,mantap barang bagus sesuai
 5,kepaake lah tws nya cukup buat 3 jam,positive,pakai tws cukup buat jam
 5,wow,positive,wow
@@ -334,19 +334,19 @@ rating,comment,sentiment,clean_comment
 5,"barang ok,pengiriman cepat",positive,barang ok kirim cepat
 5,"gokil, harga murah tp kualitas ga murahan. awalnya hs bunyi kresek, pas matiin idupin lagi normal. pemakaian full 3jam kurleb nonstop",positive,gokil harga murah kualitas tidak murah awal hs bunyi kresek pas matiin hidupin normal pakai full jam kurang lebih
 4,alat gak berfungsi.,positive,alat tidak fungsi
-5,"barang cepat sampainya, kualitas ok",positive,barang cepat sampai kualitas ok
+5,"barang cepat sampainya, kualitas ok",positive,barang cepat kualitas ok
 5,barang oke! berfungsi dgn baik! seller proses barang cepat sekali! pesan kemaren besoknya udah sampe! keren! semoga barang awet..🙏,positive,barang oke fungsi baik jual proses barang cepat sekali pesan kemarin besok udah keren moga barang awet
 5,"barang sesuai kondisi baik & bagus, paket rapi serta aman, terima kasih",positive,barang sesuai kondisi baik bagus paket rapi aman terima kasih
 5,"nyala 2-2 nya bagus cm saya salah kayanya mau yg sekalian powerbank malah bukan,pdhl diskripsinya sekalian powerbank",positive,nyala bagus cuma salah kaya mau sekali powerbank malah bukan padahal deskripsi sekali powerbank
 5,bagus bagus aja semoga bagus bagus aja,positive,bagus bagus aja moga bagus bagus aja
 3,"kualitas suara biasa aja, koneksi bluetooth tidak mencakup jarak yg jauh",neutral,kualitas suara biasa aja koneksi bluetooth tidak cakup jarak jauh
-4,"baterainya saja yang kurang durasinya karena sangat cepat habis, selebihnya oke, san juga suara mantap terutama bagian bassnya terasa. pengirimannya juga cepat, langsung...",positive,baterai yang kurang durasi sangat cepat habis lebih oke suara mantap utama bagi bassnya asa kirim cepat langsung
+4,"baterainya saja yang kurang durasinya karena sangat cepat habis, selebihnya oke, san juga suara mantap terutama bagian bassnya terasa. pengirimannya juga cepat, langsung...",positive,baterai yang kurang durasi sangat cepat habis lebih oke suara mantap utama bassnya asa kirim cepat langsung
 4,"kardus packaging penyok, barang bagus seusai dengan harga",positive,kardus emas penyok barang bagus sesuai harga
 5,"packing aman, barang sesuai gambar dan harga",positive,packing aman barang sesuai gambar harga
 5,sudah dicoba barang bagus batre awet,positive,coba barang bagus baterai awet
 5,ok kak mantap cuma packing kurang baik tapi overall good aman kak bisa di cas dan nyala 2²nya gokil lah berfungsi dengan baik sip deh 👍🙏😇,positive,ok kak mantap cuma packing kurang baik seluruh bagus aman kak di cas nyala gokil fungsi baik sip deh
 5,produk sesuai bass mantap next order lagi,positive,produk sesuai bass mantap next order
-5,"semua fitur berfungsi baik, ketahanan batre sejauh ini lumayan untuk harga dikisaran segini..cuma seperti gores2 tipis dibagian smart display.",positive,semua fitur fungsi baik tahan baterai jauh lumayan harga kisar gin cuma gores tipis bagi pintar display
+5,"semua fitur berfungsi baik, ketahanan batre sejauh ini lumayan untuk harga dikisaran segini..cuma seperti gores2 tipis dibagian smart display.",positive,semua fitur fungsi baik tahan baterai jauh lumayan harga kisar gin cuma gores tipis pintar display
 5,seller ok barang ok kurir ok,positive,jual ok barang ok kurir ok
 5,barang sudah di terima sangat bagus !! sesuai ekspektasi suara nya bagus👍👍,positive,barang di terima sangat bagus sesuai ekspektasi suara bagus
 2,tidak bisa dicharge,negative,tidak dicharge
@@ -370,7 +370,7 @@ rating,comment,sentiment,clean_comment
 5,good job,positive,bagus job
 5,suaranya ngebass. mantap,positive,suara ngebass mantap
 5,walau agak slowres (mungkin lgi rame kali yg beli) tpi barang okay dan sesuai harga worth sih,positive,agak respon lambat mungkin rame kali beli barang okay sesuai harga harga sih
-5,alhamdulillah sudah tiba paketnya semoga berfungsi sebagai mana mestinya ya semoga awet terima kasih,positive,alhamdulillah tiba paket moga fungsi mana mesti moga awet terima kasih
+5,alhamdulillah sudah tiba paketnya semoga berfungsi sebagai mana mestinya ya semoga awet terima kasih,positive,alhamdulillah tiba paket moga fungsi bagai mana mesti moga awet terima kasih
 1,"tidak bisa di cas bos, ganti kabel jg tidak bisa, barang rusak ini!!",negative,tidak di cas bos ganti kabel tidak barang rusak
 4,"barang berfungsi dengan baik ,semoga awet",positive,barang fungsi baik moga awet
 5,"fast respon, fast delivery, good attitude. the best seller",positive,cepat respon cepat antar bagus attitude the best jual
@@ -398,7 +398,7 @@ rating,comment,sentiment,clean_comment
 5,mantap,positive,mantap
 5,packing rapi biarpun terlalu tipis.overall good stuff,positive,packing rapi biarpun terlalu tipis seluruh bagus barang
 3,barang rusak 1,neutral,barang rusak
-5,alhamdulillah mantappp cuma kurang dikitttt dri bass ny ajhh untuk keseluruhan yesss ✨✨✨,positive,alhamdulillah mantap cuma kurang sedikit bass ny aja seluruh iya
+5,alhamdulillah mantappp cuma kurang dikitttt dri bass ny ajhh untuk keseluruhan yesss ✨✨✨,positive,alhamdulillah mantap cuma kurang sedikit bass aja seluruh iya
 4,belum dicoba.... smg berfungsi.....,positive,coba moga fungsi
 5,sampai ke kantor saya,positive,ke kantor
 5,"sesuai pesanan, sesuai harga",positive,sesuai pesan sesuai harga
@@ -482,7 +482,7 @@ rating,comment,sentiment,clean_comment
 5,"terimakasih pesanannya sdh sampe, sama seperti di gambar, semoga makin sukses",positive,terima kasih pesan sampai sama di gambar moga makin sukses
 5,pembelian ke 2 dtoko yg sama.rekomendet bgt,positive,beli di toko sama rekomendet sangat
 5,semua fitur berfungsi dengan baik bass goks bet paten dah,positive,semua fitur fungsi baik bass gokil bet paten dah
-5,"suara nya bagus , cocok untuk anggota dpr kita yang ***** kuping nya gabisa denger suara rakyat. untuk ketahanan batre belom tau",positive,suara bagus cocok anggota dpr yang telinga tidak dengar suara rakyat tahan baterai bom tau
+5,"suara nya bagus , cocok untuk anggota dpr kita yang ***** kuping nya gabisa denger suara rakyat. untuk ketahanan batre belom tau",positive,suara bagus cocok anggota dewan wakil rakyat yang telinga tidak dengar suara rakyat tahan baterai bom tau
 5,bagus untuk sekelas harganya,positive,bagus kelas harga
 5,"pesanan telah diterima dengan baik, sesuai dengan jadwal waktu diterima dan orderan",positive,pesan terima baik sesuai jadwal waktu terima order
 5,barang oke,positive,barang oke
@@ -534,7 +534,7 @@ rating,comment,sentiment,clean_comment
 3,lampunya (flashlight) tdk berfungsi (tdk menyala),neutral,lampu flashlight tidak fungsi tidak nyala
 5,barang sesuai,positive,barang sesuai
 5,mantep bos..,positive,mantap bos
-5,"barang datang sesuai deskripsi dan berfungsi dengan baik, pengiriman cepat sudah pembelian ke-2, yg sebelumnya bagus dan awet. top untuk produknya terima kasih seller, to...",positive,barang datang sesuai deskripsi fungsi baik kirim cepat beli yang belum bagus awet baik produk terima kasih jual to
+5,"barang datang sesuai deskripsi dan berfungsi dengan baik, pengiriman cepat sudah pembelian ke-2, yg sebelumnya bagus dan awet. top untuk produknya terima kasih seller, to...",positive,barang datang sesuai deskripsi fungsi baik kirim cepat beli yang bagus awet baik produk terima kasih jual to
 5,"mantap, barang nya bagus, packing nya aman dan rapih, pengiriman nya lumayan cepet,",positive,mantap barang bagus packing aman rapih kirim lumayan cepat
 4,"alhamdulillah barang oke,cuma awal ada kendala sedikit ga mau nyala tapi sekarang udah bisa,naterus buat alatnya tempatnya itu besinya agak mendem kedalem jadi harus di t...",positive,alhamdulillah barang oke cuma awal kendala sedikit tidak mau nyala sekarang udah naterus buat alat tempat besi mendem dalem jadi di
 5,sesuai harga,positive,sesuai harga
@@ -606,38 +606,38 @@ rating,comment,sentiment,clean_comment
 3,yang kanan kenapa gak berfungsi ya,neutral,kanan tidak fungsi
 5,lumayan.. cuma gak tau cara setting ke english,positive,lumayan cuma tidak tau cara atur english
 5,mantap 👍,positive,mantap
-5,sesuai gambar. walaupun pengiriman nya agak lama sih. tapi puas banget menggunakan produk ini.,positive,sesuai gambar walaupun kirim agak lama sih puas sangat guna produk
+5,sesuai gambar. walaupun pengiriman nya agak lama sih. tapi puas banget menggunakan produk ini.,positive,sesuai gambar walaupun kirim agak lama sih puas sangat produk
 5,"packing aman dan unit berfungsi, semoga awet kedepannya",positive,packing aman unit fungsi moga awet depan
 5,"barang sesuai ekspektasi, kualitas suara oke di harganya, berfungsi normal, selller responsif, pengiriman cepat, semoga awet",positive,barang sesuai ekspektasi kualitas suara oke harga fungsi normal jual responsif kirim cepat moga awet
 5,good,positive,bagus
-5,"untuk harga segini udah bagus banget, bass nya emang kurang si, tapi untuk santai santai ngisi kegabutan di kelas not bad lah. batrenya juga awet banget, terus untuk fitu...",positive,harga gin udah bagus sangat bass memang kurang si santai santai ngisi kegabutan kelas tidak bad batrenya awet sangat terus untuk gitu
+5,"untuk harga segini udah bagus banget, bass nya emang kurang si, tapi untuk santai santai ngisi kegabutan di kelas not bad lah. batrenya juga awet banget, terus untuk fitu...",positive,harga gin udah bagus sangat bass memang kurang si santai santai ngisi kegabutan kelas tidak bad baterai awet sangat terus untuk gitu
 5,barang sesuai harga,positive,barang sesuai harga
 5,diterima dengan baik...packaging rapih...baru dicoba kabel type c berfungsi dng baik...headset blm dicoba...,positive,terima baik emas rapih baru coba kabel type fungsi baik headset coba
 1,"antara headset kanan & kiri tidak mau connect. ketika pairing ke hp, hanya salah satu saja yg keluar suara nya. kanan saja ato kiri saja. sudah dicharge full. sudah d...",negative,headset kanan kiri tidak mau connect ke ponsel salah satu yang keluar suara kanan atau kiri dicharge full sudah di
 4,mayan not too impressed,positive,lumayan tidak too impressed
 5,"barang oke sudah dicoba, cuma sempet kesel sm kurir rekomendasi id e**** nulis di status nama penerima tidak ada di alamat, menghubungi pun tidak, tiba2 dibilang tidak ad...",positive,barang oke coba cuma sempat kesal sama kurir rekomendasi id nulis status nama terima tidak di alamat hubung tidak tiba bilang tidak ad
 5,"ternyata datang nya cepet, sat set no ribet.",positive,nyata datang cepat sat set tidak ribet
-5,keren pesanan sesuai keinginan,positive,keren pesan sesuai ingin
+5,keren pesanan sesuai keinginan,positive,keren pesan sesuai
 5,paket sampai dengan baik,positive,paket dengan baik
 5,"barang sudah sampai dengan aman, barang berfungsi dengan baik, tka",positive,barang sampai aman barang fungsi baik tka
 5,"lega karena packing aman, kualitas bagus barang berfungsi dengan baik,",positive,lega packing aman kualitas bagus barang fungsi baik
 5,kualitas bagus tp ekspedisi luama,positive,kualitas bagus ekspedisi lama
 3,barang yg di kirim tidak sesuai pesanan,neutral,barang di kirim tidak sesuai pesan
-3,"paket telah sampai 👏👍 isi sesuai order dan descripsi...good 👏 packing rapat + aman... seller resposif...cepat ... hanya setelah di coba, lama penggunaannya kurang dari...",neutral,paket sampai isi sesuai order descripsi bagus packing rapat aman jual resposif cepat telah coba lama guna kurang
+3,"paket telah sampai 👏👍 isi sesuai order dan descripsi...good 👏 packing rapat + aman... seller resposif...cepat ... hanya setelah di coba, lama penggunaannya kurang dari...",neutral,paket sampai isi sesuai order descripsi bagus packing rapat aman jual resposif cepat telah coba lama kurang
 5,barang sudah sampai oke mantap belum dicoba. seller amanah dan kurir good job,positive,barang sampai oke mantap coba jual amanah kurir bagus job
 5,"brg sesuai, smua fitur berfungsi baik",positive,barang sesuai semua fitur fungsi baik
-2,"pengiriman cepat,respon cepat..sayang barang tidak sesuai dengan yg di tawarkan ataupun gambar yg ada di tokopedia..untuk kualitas sesuai harga,jgn berharap banyak wajar...",negative,kirim cepat respon cepat sayang barang tidak sesuai tawar atau gambar yang ada tokopedia kualitas sesuai harga jangan harap banyak wajar
+2,"pengiriman cepat,respon cepat..sayang barang tidak sesuai dengan yg di tawarkan ataupun gambar yg ada di tokopedia..untuk kualitas sesuai harga,jgn berharap banyak wajar...",negative,kirim cepat respon cepat sayang barang tidak sesuai tawar gambar yang ada tokopedia kualitas sesuai harga jangan harap banyak wajar
 5,minus saat ngecharge magnet tdk terlalu nempel,positive,minus ngecharge magnet tidak terlalu nempel
 4,packing oke.....suara mantap.....thanks seller....thanks tokopedia,positive,packing oke suara mantap terima kasih jual terima kasih tokopedia
 5,overall oke,positive,seluruh oke
 5,mantap barangnya min,positive,mantap barang min
-5,pengiriman cepat banget bintang kejora untuk packingnya. untuk budsnya ya untuk harga segini udah oke tapi ketahanan batrenya jelek banget jadi dikit2 perlu di charge. se...,positive,kirim cepat sangat bintang kejora packingnya budsnya untuk harga gin udah oke tahan batrenya jelek sangat jadi dikit perlu charge se
+5,pengiriman cepat banget bintang kejora untuk packingnya. untuk budsnya ya untuk harga segini udah oke tapi ketahanan batrenya jelek banget jadi dikit2 perlu di charge. se...,positive,kirim cepat sangat bintang kejora packingnya budsnya untuk harga gin udah oke tahan baterai jelek sangat jadi dikit perlu charge se
 5,"kualitas produk sangat good, barang cepat sampai, sesuai ekspektasi, pokonya barang bagus",positive,kualitas produk sangat bagus barang cepat sesuai ekspektasi poko barang bagus
 5,"pembelian ke 2x, kali ini pengiriman nya lebih cepat hanya sehari langsung sampai👍👍",positive,beli kali kirim lebih cepat hari langsung
 5,mantap,positive,mantap
 2,"yg satu rusak, cuma hidup 1",negative,satu rusak cuma hidup
 5,"okelah, belum dicoba",positive,oke coba
-5,alhamdulillah normal gak kaya sebelumnya,positive,alhamdulillah normal tidak kaya belum
+5,alhamdulillah normal gak kaya sebelumnya,positive,alhamdulillah normal tidak kaya
 1,"kualitas suaranya tidak bagus, kualitas plastiknya jelek dan tidak ditampilkan di iklan",negative,kualitas suara tidak bagus kualitas plastik jelek tidak tampil iklan
 5,barang berfungsi,positive,barang fungsi
 5,"sangat worth it dengan harga segitu,lumayan suaranya,packingnya juga sangat aman 🙏",positive,sangat harga dengan harga segitu lumayan suara packingnya sangat aman
@@ -659,7 +659,7 @@ rating,comment,sentiment,clean_comment
 5,"perlu di tingkat kan lg dalam hal kecepatan respon pembelian,beli sabtu di proses senin pengiriman jg di perhatikan",positive,perlu tingkat kan dalam cepat respon beli beli sabtu proses senin kirim di perhati
 3,suara l sama r kebalik,neutral,suara sama balik
 5,barangnya sesuai deskripsi.. udah dicoba n bagus.. makasih banyak,positive,barang sesuai deskripsi udah coba bagus terima kasih banyak
-4,barang tidak sesuai dgn yg di beli..beda type f9. 47 yg dtg f9 5.1...blom di coba karena.. gak bs di nyalain soalnya tidak ada sisa daya sm sekali.. mudah2an bs di gunaka...,positive,barang tidak sesuai beli beda type yang datang di coba tidak di nyalain soal tidak sisa daya sama sekali mudah an di guna
+4,barang tidak sesuai dgn yg di beli..beda type f9. 47 yg dtg f9 5.1...blom di coba karena.. gak bs di nyalain soalnya tidak ada sisa daya sm sekali.. mudah2an bs di gunaka...,positive,barang tidak sesuai beli beda type yang datang di coba tidak di nyalain soal tidak sisa daya sama sekali mudah an di
 3,cuma bisa start/pause respon kurang sensitif,neutral,cuma start pause respon kurang sensitif
 5,produk berfungsi dengan baik produk original packaging bagus,positive,produk fungsi baik produk original emas bagus
 5,cepet... ga pake basa basi... tiba2 ud sampe aja barangnya,positive,cepat tidak pake basa basi tiba sampai aja barang
@@ -689,8 +689,8 @@ rating,comment,sentiment,clean_comment
 5,alhamdulillah barang sudah sampai berfungsi baik dua-duanya terima kasih,positive,alhamdulillah barang sampai fungsi baik dua terima kasih
 5,"sesuai dengan harapan ,goooood",positive,sesuai harap baik
 5,sudah beli ke dua kali harga murah dan bagus berfungsi dgn baik semoga awet,positive,beli dua kali harga murah bagus fungsi baik moga awet
-4,karet pengganti nya gak di ikut sertakan,positive,karet ganti tidak ikut serta
-4,secara kemasan dan packing rapih aman dan baik ..cuman pas dibuka ada yg pecah 1...tp berfungsi dengan baik,positive,kemas packing rapih aman baik cuman pas buka yang pecah fungsi baik
+4,karet pengganti nya gak di ikut sertakan,positive,karet ganti tidak ikut
+4,secara kemasan dan packing rapih aman dan baik ..cuman pas dibuka ada yg pecah 1...tp berfungsi dengan baik,positive,cara kemas packing rapih aman baik cuman pas buka yang pecah fungsi baik
 5,mantab lah....harga murah tapi kualitas melebihi ekspektasi dari yang bakal didapet....next mungkin bakal upgrade nih ....,positive,mantap harga murah kualitas lebih ekspektasi yang bakal didapet next mungkin bakal upgrade nih
 5,"packing nya aman, sampe sesuai estimasi waktu nya, sesuai dengan deskripsi, suara nya juga oke, ada buku panduan nya juga, semoga bisa bertahan lama",positive,packing aman sesuai estimasi waktu sesuai deskripsi suara juga oke buku pandu juga moga tahan lama
 5,seller fast respon.. pengiriman cepat. suara bagus,positive,jual cepat respon kirim cepat suara bagus
@@ -724,7 +724,7 @@ rating,comment,sentiment,clean_comment
 5,worth the price and quality. not bad. recommended for low budget,positive,harga the harga and quality tidak bad low budget
 5,barang oke meskipun kabel bawaan ga jalan buat cas tapi overall suara segitu oke lah,positive,barang oke meski kabel bawa tidak jalan buat cas seluruh suara segitu oke
 5,alhamdulillah bagus,positive,alhamdulillah bagus
-5,barang sesuai ekspetasi terima kasih!,positive,barang sesuai ekspetasi terima kasih
+5,barang sesuai ekspetasi terima kasih!,positive,barang sesuai ekspektasi terima kasih
 2,"tutupnya ngampleh, barang jelek parah, dusnya penyok",negative,tutup ngampleh barang jelek parah dus penyok
 5,barang sdh sampai mantab fungsi semua terimakasih toped,positive,barang sampai mantap fungsi semua terima kasih tokopedia
 2,"wadah earbuds tanpa dicas gabisa dibuat cas earbuds, dan yang kayanya bisa dibuat pb juga ternyta fake, lumyan waduh si",negative,wadah cas tidak buat cas yang kaya buat power bank nyata fake lumayan waduh si
@@ -774,7 +774,7 @@ rating,comment,sentiment,clean_comment
 4,"pairing ok cm namanya kok t5 bukan t11.. tapi bs pairing sih.. lumayan lah, ndak putus².. tapi entah earbud nya yg gede atau lubang telinga saya yg kecil.. kl ga dipegang...",positive,ok cuma nama kok bukan bisa sih lumayan tidak putus entah earbud yang besar lubang telinga yang kecil kalau tidak pegang
 5,cocok dan pas,positive,cocok pas
 5,"bass mntep,mks seller",positive,bass mntep makasih jual
-4,"setelah di gunakan selama 2 bulan masih bagus dan suara tergolong ok meskipun toch sensor untuk sebelah kanan sudah di tidak berfungsi karena memang kesalahan saya, untuk...",positive,di guna lama bulan bagus suara golong ok meski toch sensor belah kanan di tidak fungsi memang salah untuk
+4,"setelah di gunakan selama 2 bulan masih bagus dan suara tergolong ok meskipun toch sensor untuk sebelah kanan sudah di tidak berfungsi karena memang kesalahan saya, untuk...",positive,di lama bulan bagus suara golong ok meski toch sensor belah kanan di tidak fungsi memang salah untuk
 3,barang sudah sampai tetapi... headset yg sebelah kiri gaada suaranya 🙃,neutral,barang sampai headset belah kiri gaada suara
 5,pesanan sudah diterima sudah dites dan berfungsi dgn baik thanks ya,positive,pesan terima tes fungsi baik terima kasih
 5,mantap,positive,mantap
@@ -805,9 +805,9 @@ rating,comment,sentiment,clean_comment
 5,fast respon seller. recomend. barang sesuai pesanan. bagus,positive,cepat respon jual barang sesuai pesan bagus
 4,lumayan tp kdg keluar bunyi kresek2,positive,lumayan kadang keluar bunyi kresek
 2,"untuk satu headsetnya susah banget buat dimatiin dengan jari, tempat charging dock tws nya juga kalo gerak dikit otomatis nyala headset di dalam charging dock nya, yaah m...",negative,satu headsetnya susah sangat buat dimatiin jari tempat charging dock tws juga kalo gerak dikit otomatis nyala headset dalam charging dock yaah
-5,bagus dan batrenya awet ga cepet abis,positive,bagus batrenya awet tidak cepat abis
+5,bagus dan batrenya awet ga cepet abis,positive,bagus baterai awet tidak cepat abis
 3,kemasannya rusak tws nya juga rada kurang nyaman tpi lumayan,neutral,kemas rusak tws juga rada kurang nyaman lumayan
-5,pembelian kedua.. berfungsi dgn baik,positive,beli dua fungsi baik
+5,pembelian kedua.. berfungsi dgn baik,positive,beli fungsi baik
 5,mantap,positive,mantap
 5,keren...,positive,keren
 5,"barang bagus, packing aman, pengiriman cepat, semoga sukses",positive,barang bagus packing aman kirim cepat moga sukses
@@ -819,7 +819,7 @@ rating,comment,sentiment,clean_comment
 5,"alhamdulillah, paket sudah tiba di tujuan, ku kira akan sampai malam rupanya tidak. packing nya bagus x rapih, barang aman, pengiriman juga sesuai apa yg ku kira, suara e...",positive,alhamdulillah paket tiba tuju ku kira sampai malam rupa tidak packing bagus rapih barang aman kirim sesuai apa ku kira suara
 5,"murmer pisan, kualitas hade",positive,murah riah banget kualitas hadeh
 5,alhamdulillah berfungsi dengan baik,positive,alhamdulillah fungsi baik
-5,mantap dengan harga segitu. cukuplah harga segitu jangan banyak ekspetasi,positive,mantap harga segitu cukup harga segitu jangan banyak ekspetasi
+5,mantap dengan harga segitu. cukuplah harga segitu jangan banyak ekspetasi,positive,mantap harga segitu cukup harga segitu jangan banyak ekspektasi
 5,mantap asli nage,positive,mantap asli nagih
 5,"top, budget tapi high quality lumayan lah~",positive,baik budget high quality lumayan
 5,keren,positive,keren
@@ -829,7 +829,7 @@ rating,comment,sentiment,clean_comment
 2,"pesanan pertama ga sesuai terus penjualnya ga bales"" chatnya",negative,pesan pertama tidak sesuai terus jual tidak balas chatnya
 5,bagus,positive,bagus
 5,"kualitas suaranya bagus, ukuran kecil tapi pas di kuping, tidak ada noise dari luar, batrai tidak cepat habis.",positive,kualitas suara bagus ukur kecil pas telinga tidak noise luar baterai tidak cepat habis
-5,barang sesuai dengan deakripsinya,positive,barang sesuai deakripsinya
+5,barang sesuai dengan deakripsinya,positive,barang sesuai deskripsi
 1,****** orang gw cancel pesanan karena mau milih tipe yang laen malah dikirim yang ini seller kocak takut rezeki lu ilang apa gimana? kapok dah,negative,orang cancel pesan mau milih tipe lain malah kirim ini jual kocak takut rezeki lu hilang apa bagaimana kapok dah
 5,"packingnya aman, pengiriman lumayan cepat, dan tws nya berfungsi dengan baik 👍",positive,packingnya aman kirim lumayan cepat tws fungsi baik
 5,"barang sampai dengan aman,moga jh awet🙏🏻",positive,barang dengan aman moga jh awet
@@ -843,14 +843,14 @@ rating,comment,sentiment,clean_comment
 4,"untung kualitas standarlah sesuai sama harga, sejauh ini gada kendala dan semoga aja gada. cuma bungkusnya aga sedikit kurang aman aja jadi aga sedikit penyok dus nya, da...",positive,untung kualitas standar sesuai sama harga jauh tidak kendala moga aja tidak cuma bungkus sedikit kurang aman aja jadi sedikit penyok dus da
 5,keren. bagus pokoknya...,positive,keren bagus pokok
 5,"pesan sabtu pagi, tiba minggu sore, packegin wajar, kualitas headset ya bagus, seller responsif.",positive,pesan sabtu pagi tiba minggu sore packegin wajar kualitas headset bagus jual responsif
-1,"tws tidak bisa di gunakan jadi sampah aja, semoga berkah",negative,tws tidak di guna jadi sampah aja moga berkah
+1,"tws tidak bisa di gunakan jadi sampah aja, semoga berkah",negative,tws tidak di jadi sampah aja moga berkah
 5,sesuai pesanan... berfungsi dgn baik... thanks...,positive,sesuai pesan fungsi baik terima kasih
 4,thank kurir mas agus,positive,terima kasih kurir mas agus
 5,bandingkan hasilnya,positive,banding hasil
 5,bagus sesuai dgn pesanan puasssssss,positive,bagus sesuai pesan puasssssss
 4,"suara bagus, namun battery life nya singkat bgt kalau dibandingin sama tws lain, tapi worth it lah untuk harganya.",positive,suara bagus battery life singkat sangat kalau dibandingin sama tws tapi harga untuk harga
 2,"mungkin lagi ga hoki aja, paket sudah sampai dikota tujuan tapi kurir gak nganter2.. kapok pake kurir itu. pas paket dibuka udah penyok dalemnya, dibuka dicoba terus pas...",negative,mungkin tidak hoki aja paket sampai kota tuju kurir tidak nganter kapok pake kurir pas paket buka udah penyok dalem buka coba terus pas
-1,barang datang sudah dalam keadaan rusak yang dimana bagian sebelah kanan tidak dapat berfungsi dan terhubung dengan handphone saya. saya sangat kecewa dengan kualitas bar...,negative,barang datang dalam ada rusak mana bagi belah kanan tidak fungsi hubung handphone saya sangat kecewa kualitas bar
+1,barang datang sudah dalam keadaan rusak yang dimana bagian sebelah kanan tidak dapat berfungsi dan terhubung dengan handphone saya. saya sangat kecewa dengan kualitas bar...,negative,barang datang dalam rusak mana belah kanan tidak fungsi hubung handphone saya sangat kecewa kualitas bar
 5,alhamdulillah barang sampai dengan selamat,positive,alhamdulillah barang dengan selamat
 4,naise,positive,naise
 5,not bad,positive,tidak bad
@@ -867,8 +867,8 @@ rating,comment,sentiment,clean_comment
 4,"tws ini bagus, fitur yang ditawarkannya juga banyak tidak seperti tws lain di harga yang sama. fitur: fiturnya antara lain 1 kali ketuk stop/pause, 2 kali ketuk untuk gan...",positive,tws bagus fitur tawar banyak tidak tws di harga sama fitur fiturnya lain kali ketuk stop pause kali ketuk juragan
 5,"pembelian yg ke2x ditoko ini, sesuai pesanan barangnya, pas lobang telinga, suara ngebas ok, tahan baterai headset 3-4jaman.. thans seler",positive,beli ke toko sesuai pesan barang pas lobang telinga suara ngebass ok tahan baterai headset jaman thans jual
 1,tidak fungsi,negative,tidak fungsi
-1,bagian sebelah kirinya mati udah di coba isi batry 1 jam masih mati,negative,bagi belah kiri mati udah coba isi batry jam mati
-5,"suara sdh cukup baik, nyaman digunakan dan baterainya awet banget",positive,suara cukup baik nyaman guna baterai awet sangat
+1,bagian sebelah kirinya mati udah di coba isi batry 1 jam masih mati,negative,belah kiri mati udah coba isi batry jam mati
+5,"suara sdh cukup baik, nyaman digunakan dan baterainya awet banget",positive,suara cukup baik nyaman dan baterai awet sangat
 5,barang sesuai dengan yang difoto mantappp,positive,barang sesuai yang foto mantap
 5,mantapppp👍,positive,mantap
 3,"setelah dibuka, kotaknya robek2 dan ada tulisan seperti di foto. mudah2n berfungsi dengan baik dan awet",neutral,buka kotak robek ada tulis di foto mudah fungsi baik awet
@@ -897,11 +897,11 @@ rating,comment,sentiment,clean_comment
 5,simple'pas dipakai buat telp,positive,simple pas pakai buat telp
 5,bagus suara mantep cuman kurang nyaman aja wajar ada harga ada rupa,positive,bagus suara mantap cuman kurang nyaman aja wajar harga rupa
 1,"saya sudah pakai bluetooth headset sejak 6 tahun lalu .. udh lumayan hafal segala urusan perbluetoothan .. barang ini mati sebelah (yg kanan) ga bs di kutak katik, (yg k...",negative,pakai bluetooth headset sejak tahun lalu sudah lumayan hafal segala urus perbluetoothan barang mati belah kanan tidak di kutak katik
-5,"alhamdulillah produk sesuai ekspetasi 🤟, best sellernya lah, meskipun pengiriman terkendala karna lebaran 🥲 .",positive,alhamdulillah produk sesuai ekspetasi best sellernya meski kirim kendala karna lebaran
+5,"alhamdulillah produk sesuai ekspetasi 🤟, best sellernya lah, meskipun pengiriman terkendala karna lebaran 🥲 .",positive,alhamdulillah produk sesuai ekspektasi best sellernya meski kirim kendala karna lebaran
 5,kerenn walau packing nya rada penyok dikit wkwkwke,positive,kerenn packing rada penyok dikit wkwkwke
 5,"barang ori , sesuai deskripsi seller responsif batang berfungsi dengan baik",positive,barang ori sesuai deskripsi jual responsif batang fungsi baik
 1,yang hidup cuma sebelah,negative,hidup cuma belah
-2,"nyala sebelah 4nj tp kualitas suara ok lh tp pgiriman lama bet, maklum lah hrga sgitu",negative,nyala belah nj kualitas suara ok pgiriman lama bet maklum harga sgitu
+2,"nyala sebelah 4nj tp kualitas suara ok lh tp pgiriman lama bet, maklum lah hrga sgitu",negative,nyala belah nj kualitas suara ok kirim lama bet maklum harga segitu
 3,"agak lama ngirimnya, sama kurang awet aja baterainya",neutral,lama ngirimnya sama kurang awet aja baterai
 5,sangat bagus,positive,sangat bagus
 5,lumayan untuk harganya,positive,lumayan harga
@@ -915,7 +915,7 @@ rating,comment,sentiment,clean_comment
 5,barang sdh sampai berfungsi dgn baik. semoga langgeng.,positive,barang sampai fungsi baik moga langgeng
 1,barang yang kami pesan 4 biji yang di kirim cuma 1....hati2 dengan toko ini penipuan... jangan sampai tertipu di toko ini....,negative,barang kami pesan biji kirim cuma hati toko tipu jangan tipu di toko
 1,"earphone sebelah kirinya mati tidak berfungsi, gimana ini",negative,belah kiri mati tidak fungsi bagaimana
-5,"selama ini berfungsi dengan baik, buat alternatif hs ke 3 atau 4 yang saya miliki jika saya bosen sama hs lainnya.",positive,lama fungsi baik buat alternatif hs atau saya milik saya bosen sama hs lain
+5,"selama ini berfungsi dengan baik, buat alternatif hs ke 3 atau 4 yang saya miliki jika saya bosen sama hs lainnya.",positive,lama fungsi baik buat alternatif hs atau saya milik saya bosen sama hs
 5,"packing bagus, kualitas bagus bngt padahal harga murah",positive,packing bagus kualitas bagus banget padahal harga murah
 5,sesuai pesanan packinag aman pengiriman cepat tp lom.di coba tq,positive,sesuai pesan packinag aman kirim cepat lom coba terima kasih
 2,"yg 1 berfungsi yg 1 nya tdk ngisi saat d cas,padahal kalo sepasang berfungsi sebenarx lumayan keren sih",negative,fungsi nya tidak ngisi di cas padahal kalo pasang fungsi sebenarx lumayan keren sih
@@ -923,13 +923,13 @@ rating,comment,sentiment,clean_comment
 5,barangnya bagus,positive,barang bagus
 4,mantap sii cma kadang suka putus2 sndiri,positive,mantap sii cuma kadang suka putus sendiri
 3,"bisa pairing, tapi pas konek ke hape gabisa play media dua duanya. cm bisa salah satu hadeh",neutral,tapi pas hubung hape tidak media dua cuma salah satu hadeh
-5,baranya bagus pokoknya mantep dah tokopedia,positive,bara bagus pokok mantap dah tokopedia
+5,baranya bagus pokoknya mantep dah tokopedia,positive,barang bagus pokok mantap dah tokopedia
 5,jossss,positive,jossss
 5,makasih seler paket nya dah sampai semoga sukses selalu,positive,terima kasih jual paket dah moga sukses selalu
 5,nuhun,positive,nuhun
 5,barang bagus,positive,barang bagus
 5,bass nya mantapp,positive,bass mantap
-5,packingnya cepat dan barangnya berfunhsi,positive,packingnya cepat barang berfunhsi
+5,packingnya cepat dan barangnya berfunhsi,positive,packingnya cepat barang fungsi
 5,"paking aman ,barang ok sesuai gambar etalase",positive,emas aman barang ok sesuai gambar etalase
 4,"barang sampai dgn selamat tidak ada lecet, suara lumayan jernih, semoga awet untuk kedepannya, sukses terus dan lancar dagangannya 🔥🔥",positive,barang dengan selamat tidak lecet suara lumayan jernih moga awet depan sukses terus lancar dagang
 5,barang nya sampai dengan selamat dan bagus juga kualitas barang nya. puas rasanya setelah menunggu beberapa hari,positive,barang sampai selamat bagus kualitas barang puas rasa tunggu beberapa hari
@@ -948,7 +948,7 @@ rating,comment,sentiment,clean_comment
 5,sedang dcharge dulu... design n indikator digitalnya keren... semoga berfungsi....,positive,sedang dcharge dulu design indikator digital keren moga fungsi
 5,oke,positive,oke
 5,"barang aman, udh dicoba dan hasilnya wahh banget",positive,barang aman coba hasil wahh sangat
-4,suara lumayan lah pas untuk harganya tp batrenya kurang durable cuma bisa pake 2 jam'an,positive,suara lumayan pas harga batrenya kurang durable cuma pake jam an
+4,suara lumayan lah pas untuk harganya tp batrenya kurang durable cuma bisa pake 2 jam'an,positive,suara lumayan pas harga baterai kurang durable cuma pake jam an
 5,mantap barang nya,positive,mantap barang
 5,"mantap min, barang sampai dengan selamat.",positive,mantap min barang dengan selamat
 5,barang pesanan saya sudah saya terima dengan baik dan aman. tws berfungsi dengan baik. ketahanan baterai sangat baik. dari kondisi 100% saya pakai sekitar satu jam seteng...,positive,barang pesan sudah terima baik aman tws fungsi baik tahan baterai sangat baik kondisi pakai satu jam teng
@@ -961,7 +961,7 @@ rating,comment,sentiment,clean_comment
 3,"barang sampai dengan selamat, cuma kardus pada penyok.. isi mudh2an tidk ada masalah.",neutral,barang dengan selamat cuma kardus penyok isi mudh an tidk masalah
 5,"trimakasih barang sudah sampai, semoga berfungsi dengan baik.... belum di coba baru saya mulai coba charge dulu..",positive,terima kasih barang sampai moga fungsi baik di coba baru mulai coba charge dulu
 1,headset bluetooth nya cepat lowbat. dari 100% sampai 0 nggak sampai 15 menit,negative,headset bluetooth cepat low battery tidak sampai menit
-5,"saya kira barangnya agak besaran dikit, ternyata kecil unyu unyu ... good lah untuk suara bergungsi dengan baik, semoga aja batrenya awet seharian karena buat ngojek . s...",positive,kira barang besar dikit nyata kecil unyu unyu bagus suara bergungsi baik moga aja batrenya awet hari buat ngojek
+5,"saya kira barangnya agak besaran dikit, ternyata kecil unyu unyu ... good lah untuk suara bergungsi dengan baik, semoga aja batrenya awet seharian karena buat ngojek . s...",positive,kira barang besar dikit nyata kecil unyu unyu bagus suara bergungsi baik moga aja baterai awet hari buat ngojek
 5,kualitas barangnya ok harganya ok,positive,kualitas barang ok harga ok
 5,terima kasih,positive,terima kasih
 5,"bagus kelihatannya semoga awet yh, terima kasih semuanya",positive,bagus lihat moga awet terima kasih semua
@@ -973,7 +973,7 @@ rating,comment,sentiment,clean_comment
 5,mantap,positive,mantap
 5,bagus untuk pemakaian 1 bulan. kesana nya mudah rusak,positive,bagus pakai bulan kesana mudah rusak
 5,diterima dan berfungsi dgn baik,positive,terima fungsi baik
-3,"tidak ada kendala awalnya. saat seminggu di gunakan , tiba tiba tidak bisa di cas dan led mati mati total, padahal yang pembelian sebelumnya fine fine aja walaupun udh 3...",neutral,tidak kendala awal minggu guna tiba tiba tidak di cas led mati mati total padahal beli belum aja walaupun
+3,"tidak ada kendala awalnya. saat seminggu di gunakan , tiba tiba tidak bisa di cas dan led mati mati total, padahal yang pembelian sebelumnya fine fine aja walaupun udh 3...",neutral,tidak kendala awal minggu guna tiba tiba tidak di cas led mati mati total padahal beli aja walaupun
 5,mantull....,positive,mantull
 5,bintang yg berbicara,positive,bintang bicara
 5,pengiriman cepat' barang ok...dua2'nya berfungsi dengan baik 👍,positive,kirim cepat barang ok nya fungsi baik
@@ -1007,7 +1007,7 @@ rating,comment,sentiment,clean_comment
 5,"dicoba dlu, semoga bagus",positive,coba dulu moga bagus
 5,joss gandos,positive,mantap mantap
 5,packaging bagus karena ditutupi dengan bubble warp. suaranya bagus untuk harga segini,positive,emas bagus tutup bubble bungkus suara bagus harga gin
-3,headset yg sebelahnya batrenya lowbet..cepat abis,neutral,headset belah batrenya lowbet cepat abis
+3,headset yg sebelahnya batrenya lowbet..cepat abis,neutral,headset belah baterai lowbet cepat abis
 4,"brng sesuai spec, hanya kadang suara putus2 saat on / nyala.",positive,barang sesuai spesifikasi kadang suara putus on nyala
 5,"barang sesuai, respon cepat, pengiriman tepat waktu",positive,barang sesuai respon cepat kirim tepat waktu
 5,pengiriman cepat. produk ok. semoga tidak ada kendala selama pemakaian.,positive,kirim cepat produk ok moga tidak kendala lama pakai
@@ -1036,7 +1036,7 @@ rating,comment,sentiment,clean_comment
 5,"pekingnya aman, pengiriman cepat. produknya jg bagus👍👍🥰🥰",positive,peking aman kirim cepat produk bagus
 5,barang cepet sampe dan sesuai dengan yg dipesan tks gan,positive,barang cepat dan sesuai yang pes terima kasih juragan
 5,terimakasih untuk seller semuanya baran ki terima dengan baik aman dna dan berfungsi. semoga tetpa lancar da sukses selalu,positive,terima kasih jual semua baran ki terima baik aman dna fungsi moga tetpa lancar da sukses selalu
-5,"seriusan ini m90 produk nya diluar ekspetasi, gw kira bakal biasa aja ternyata suara yang di hasilin bagus bgt dan ini beneran ada indikator batre nya tapi gak keliatan k...",positive,serius produk luar ekspetasi kira bakal biasa aja nyata suara di hasilin bagus sangat ini beneran indikator baterai tapi tidak liat
+5,"seriusan ini m90 produk nya diluar ekspetasi, gw kira bakal biasa aja ternyata suara yang di hasilin bagus bgt dan ini beneran ada indikator batre nya tapi gak keliatan k...",positive,serius produk luar ekspektasi kira bakal biasa aja nyata suara di hasilin bagus sangat ini beneran indikator baterai tapi tidak liat
 4,tidak ada pemberitahuan baterai charge sudah berapa.,positive,tidak pemberitahuan baterai charge berapa
 5,"paking nya rapi, barang sampai dengan selamat, suka bgt",positive,emas rapi barang dengan selamat suka sangat
 5,ok berfungsi,positive,ok fungsi
@@ -1092,7 +1092,7 @@ rating,comment,sentiment,clean_comment
 5,"barang sesuai pesanan, pengiriman cepat, kualitas mantap",positive,barang sesuai pesan kirim cepat kualitas mantap
 4,lumayan,positive,lumayan
 3,kemeresek dan lambat pairing,neutral,gemeresik lambat
-2,"lumayan harga segitu lah, kalo mau yg bagus beli yg harganya mahal.. sama 1 lagi batrenya boros yg 1,tp yg 1 awet. not bad lah untuk harga segini",negative,lumayan harga segitu kalo mau bagus beli harga mahal sama batrenya boros tapi awet tidak bad harga gin
+2,"lumayan harga segitu lah, kalo mau yg bagus beli yg harganya mahal.. sama 1 lagi batrenya boros yg 1,tp yg 1 awet. not bad lah untuk harga segini",negative,lumayan harga segitu kalo mau bagus beli harga mahal sama baterai boros tapi awet tidak bad harga gin
 5,10 bintang kalo perlu. sangat sepadan sama harga,positive,bintang kalo perlu sangat padan sama harga
 5,barang sesuai katalog dan berfungsi dgn baik,positive,barang sesuai katalog fungsi baik
 5,"packing aman, semua lengkap dan kiriman cepat. berfungsi semua. terima kasih seller dsn tokopedia. sukses terus.",positive,packing aman semua lengkap kirim cepat fungsi semua terima kasih jual dsn tokopedia sukses terus
@@ -1100,9 +1100,9 @@ rating,comment,sentiment,clean_comment
 5,barang sesuai deskripsi. lumayan bgt untuk harga segini. konek ke hp atau laptop ga ada masalah. suara standar. berfungsi dengan baik. worth to buy buat yg nyari tws yg s...,positive,barang sesuai deskripsi lumayan sangat harga gin hubung ponsel laptop tidak masalah suara standar fungsi baik harga to buy buat nyari tws
 5,"mantap , packing rapi , cepat sampai nya , kualitas mantap pkoknya 😎",positive,mantap packing rapi cepat nya kualitas mantap pkoknya
 5,"mantap coy keren , suara luyaman dengan harga segini bass dapet suara jelas. mantap build quality nya coy udah beberapa kali g sengaja jatoh dan pernah kupakai kena hujan...",positive,mantap coy keren suara luyaman harga gin bass suara jelas mantap quality coy udah beberapa kali sengaja jatoh pernah pakai kena hujan
-5,"sesuai pesanan, kwalitas suara sesuai harga, hemat baterai hingga 3jam disaat pemakaian normal, kemasan aman, kurir ramah",positive,sesuai pesan kualitas suara sesuai harga hemat baterai hingga jam saat pakai normal kemas aman kurir ramah
+5,"sesuai pesanan, kwalitas suara sesuai harga, hemat baterai hingga 3jam disaat pemakaian normal, kemasan aman, kurir ramah",positive,sesuai pesan kualitas suara sesuai harga hemat baterai hingga jam pakai normal kemas aman kurir ramah
 5,"berfungsi dengan sangat baik, minus dikabel aja pendek banget. selain itu recommended semua😉😉",positive,fungsi sangat baik minus kabel aja pendek sangat itu semua
-5,m a y a n,positive,a n
+5,m a y a n,positive,a
 5,mantap.bass e,positive,mantap bass
 5,mantap. harga sesuai gak mengecewakan. respon penjual cepat. datang jg cepat.,positive,mantap harga sesuai tidak kecewa respon jual cepat datang cepat
 5,fast respone,positive,cepat respone
@@ -1119,7 +1119,7 @@ rating,comment,sentiment,clean_comment
 4,"sesuai dgn harga, sebelah kiri tdk ada suaranya",positive,sesuai harga belah kiri tidak suara
 5,"dengan harga yang terbilang murah, kualitas ga buruk2 bgt kok. bass nendang, uda hampir sebulan nih masih berfungsi dengan baik. semoga awet",positive,harga bilang murah kualitas tidak buruk sangat kok bass nendang hampir bulan nih fungsi baik moga awet
 5,"sesuai harga sihh,mantap",positive,sesuai harga sihh mantap
-1,ga recommended karena baru beli belom ada 5 hari udah rusak bagian kirj,negative,tidak baru beli bom hari udah rusak bagi kirj
+1,ga recommended karena baru beli belom ada 5 hari udah rusak bagian kirj,negative,tidak baru beli bom hari udah rusak kirj
 5,"barangnya nyampe dengan selamat, tp kurang puas dapet warna kuningg, kuramg suka sama warna cerah, hehe.",positive,barang dengan selamat kurang puas warna kuningg kuramg suka sama warna cerah hehe
 5,sesuai harga kualitasnya bagus,positive,sesuai harga kualitas bagus
 5,this wireless earphone is so worth it for the price of under 100k. the function and sound quality is decent. good product!,positive,this wireless is so harga untuk the harga of bawah the function and sound quality is baik bagus
@@ -1165,7 +1165,7 @@ rating,comment,sentiment,clean_comment
 1,"mati sebelah, di cas gak bisa",negative,mati belah cas tidak
 4,"paket lengkap, earphones, kabel dan power bank ,suara pas di coba ok banget,harga murah,cuma gambar di display toko ada layar indikator baterei tapi asli nya ga ada",positive,paket lengkap earphones kabel power bank suara pas coba ok sangat harga murah cuma gambar display toko layar indikator baterai asli tidak
 5,"packingnya aman, barang sesuai, berfungsi dengan baik",positive,packingnya aman barang sesuai fungsi baik
-5,barang berfungsi sebagai mana mestinya,positive,barang fungsi mana mesti
+5,barang berfungsi sebagai mana mestinya,positive,barang fungsi bagai mana mesti
 3,b aja.,neutral,aja
 1,"barang baru rasa bekas pemakaian. baru dibuka kemasan udh penyok, isi nya malah terbalik aneh emang. pas dipakai kadang mati sendiri bluetooth nya. mana barang nya lama l...",negative,barang baru rasa bekas pakai baru buka kemas penyok isi malah balik aneh memang pas pakai kadang mati sendiri bluetooth mana barang lama
 5,"alhamdulillah, sesuai pesanan..",positive,alhamdulillah sesuai pesan
@@ -1192,7 +1192,7 @@ rating,comment,sentiment,clean_comment
 5,"pengiriman nya cepat , barang sesuai terimakasih seller recomended",positive,kirim cepat barang sesuai terima kasih jual recomended
 5,paking rapi dan aman pengiriman cepat barang sdh dicoba suaranya mantap,positive,emas rapi aman kirim cepat barang coba suara mantap
 5,"pengiriman cepat,barang sesuai deskrisi 👍",positive,kirim cepat barang sesuai deskrisi
-5,"harusnya bintang 4 itu gara² tempat colokan buat charge nya ke angkat,, tapi gpp lah yg penting suaranya bagus dan jernih serta nge bass dikit",positive,harus bintang gara tempat colok buat charge ke angkat tidak apa penting suara bagus jernih nge bass dikit
+5,"harusnya bintang 4 itu gara² tempat colokan buat charge nya ke angkat,, tapi gpp lah yg penting suaranya bagus dan jernih serta nge bass dikit",positive,bintang gara tempat colok buat charge ke angkat tidak apa penting suara bagus jernih nge bass dikit
 5,lumayan ternyata tws nya,positive,lumayan nyata tws
 5,packing aman. suara bagus. terima kasih,positive,packing aman suara bagus terima kasih
 5,"ga nyangka barangnya bisa sebagus ini, sumpah awalnnya pasrah kaya barang murah dapet ampas pun gamasalah, ngilangin rasa penasaran, ini udah 10 hari gua pake dan gila aw...",positive,tidak sangka barang bagus sumpah awalnnya pasrah kaya barang murah ampas gamasalah ngilangin rasa penasaran udah hari gua pake gila aw
@@ -1208,7 +1208,7 @@ rating,comment,sentiment,clean_comment
 5,"suaranya bagus, harga ok",positive,suara bagus harga ok
 5,good lah udah nyampe moga awet,positive,bagus udah moga awet
 5,bagus dan suara good,positive,bagus suara bagus
-5,cpt sampainya. barang bagus bgt.,positive,cepat sampai barang bagus sangat
+5,cpt sampainya. barang bagus bgt.,positive,cepat barang bagus sangat
 5,alhamdulillah lumayan bagus...!,positive,alhamdulillah lumayan bagus
 5,luar biasa amanah sekali barang bagus suara jernih ada barang yang tidak ada langsung diberi tahu tokopedia refundnya juga bagis sekali,positive,luar biasa amanah sekali barang bagus suara jernih barang tidak langsung beri tahu tokopedia refundnya bagis sekali
 5,"barang ok cuman mic nya gadak, worth it lah harga segitu, mic di hp ku soalnya oke, redmi note 8 nih bos senggol dong",positive,barang ok cuman mic gadak harga harga segitu mic ponsel ku soal oke redmi note nih bos senggol dong
@@ -1258,10 +1258,10 @@ rating,comment,sentiment,clean_comment
 5,terima kasih,positive,terima kasih
 5,barang ok,positive,barang ok
 5,mantaap,positive,mantap
-4,"sudah seminggu saya pakai ini dan ini hasilnya pro : - earphone bagian kiri dan kanan terpisah kesannya, jadi kalau yang bagian kanan batere habis, yang kiri masih bisa...",positive,minggu pakai hasil pro bagi kiri dan kanan pisah kesan jadi kalau bagi kanan baterai habis kiri bisa
+4,"sudah seminggu saya pakai ini dan ini hasilnya pro : - earphone bagian kiri dan kanan terpisah kesannya, jadi kalau yang bagian kanan batere habis, yang kiri masih bisa...",positive,minggu pakai hasil pro kiri dan kanan pisah kesan jadi kalau bagi kanan baterai habis kiri bisa
 5,mantap bos qu. barang nya oke berpungsi dgn baik suara jernih bas oke .. josssss...,positive,mantap bos qu barang oke fungsi baik suara jernih bass oke mantap
 4,ok,positive,ok
-2,"tidak berfungsi dengan baik headset bagian kanan. yang bisa cuma 1 doang yang kiri, padahal udah dicas sampe full:(",negative,tidak fungsi baik headset bagi kanan bisa cuma doang kiri padahal udah cas full
+2,"tidak berfungsi dengan baik headset bagian kanan. yang bisa cuma 1 doang yang kiri, padahal udah dicas sampe full:(",negative,tidak fungsi baik headset kanan bisa cuma doang kiri padahal udah cas full
 5,mantep bang sip lahh buat barang lower middle class is good,positive,mantap bang sip buat barang lower middle class is bagus
 3,"lubang soundnya yang sebelah kiri kecil, jadi gede sebelah. mungkin emang lagi dapet yang bad qc",neutral,lubang soundnya belah kiri kecil jadi besar belah mungkin memang dapat bad qc
 4,"packing aman, pengiriman cepat, dan kualitas barang jg bagus sesuai dgn hargannya",positive,packing aman kirim cepat kualitas barang bagus sesuai hargannya
@@ -1271,7 +1271,7 @@ rating,comment,sentiment,clean_comment
 5,sip,positive,sip
 5,kwalitas barang sesuai di gambar harga terbaik.. murah tapi berkwalitas respon cepat rekomended seller bintang 5 semoga sukses selalu,positive,kualitas barang sesuai gambar harga baik murah berkwalitas respon cepat rekomended jual bintang moga sukses selalu
 5,sama sperti yg lainnya.,positive,sama sperti lain
-5,buat yg komen nyala sebelah aja coba deh cas dlu atau engga otak atik lebih deh.. itu tws bisa di pake secara individu..bisa bersamaan cas aja dlu . awal datang yg kanan...,positive,buat komen nyala belah aja coba deh cas dulu tidak otak atik lebih deh tws di pake individu sama cas aja dulu awal datang kanan
+5,buat yg komen nyala sebelah aja coba deh cas dlu atau engga otak atik lebih deh.. itu tws bisa di pake secara individu..bisa bersamaan cas aja dlu . awal datang yg kanan...,positive,buat komen nyala belah aja coba deh cas dulu tidak otak atik lebih deh tws di pake cara individu sama cas aja dulu awal datang kanan
 4,"1 nyala nya sebelah,, beda jaringan bluetooth",positive,nyala belah beda jaring bluetooth
 4,"ma'af agak kecewa karena telat pengiriman,soal yg lain aman aj",positive,ma af kecewa telat kirim soal lain aman aja
 5,"respon cepat, produk sesuai deskripsi",positive,respon cepat produk sesuai deskripsi
@@ -1326,7 +1326,7 @@ rating,comment,sentiment,clean_comment
 5,keren mantap,positive,keren mantap
 5,ok,positive,ok
 5,mantap barangnya sangat bagus,positive,mantap barang sangat bagus
-3,"sering susah untuk tersambung, terlalu sensitif terhadap gerakan sehingga bisa tiba-tiba mati pause atau berganti lagu karena gesekan (yg saya alami terkena rambut), dan...",neutral,sering susah sambung terlalu sensitif gera bisa tiba tiba mati pause ganti lagu gesek saya alami kena rambut
+3,"sering susah untuk tersambung, terlalu sensitif terhadap gerakan sehingga bisa tiba-tiba mati pause atau berganti lagu karena gesekan (yg saya alami terkena rambut), dan...",neutral,sering susah sambung terlalu sensitif hadap gera bisa tiba tiba mati pause ganti lagu gesek saya alami kena rambut
 5,"durung di cacak,, menawe muantep baee suarane",positive,durung cacak menawe muantep baee suarane
 4,"terkadang koneksi headset antara kiri dan kanan kurang baik ,jadi suara terkadang hilang ,sorry kakinya keliatan",positive,terkadang koneksi headset kiri kanan kurang baik jadi suara terkadang hilang sorry kaki liat
 1,"sebenernya setengah hati buat beli tws abal-abal ini, kalo aja nggak terpengaruh sama review di yt mungkin saya emg nggak akan pernah beli, tapi liat direview twsnya oke,...",negative,sebenernya tengah hati buat beli tws abal abal kalo aja tidak pengaruh sama review yt mungkin emg tidak pernah beli liat direview twsnya oke
@@ -1340,9 +1340,9 @@ rating,comment,sentiment,clean_comment
 5,sesuai pesanan,positive,sesuai pesan
 5,"awalnya panik kar3na ga nyala sebelah, tapi setelah d cas bisa",positive,awal panik kar na tidak nyala belah telah cas
 5,mantul bet gan,positive,mantap betul bet juragan
-4,"headset nya cukup bagus, batrenya awet tapi yang kiri lebih cepet abis 20 menit lebih dulu dibanding yang kanan",positive,headset cukup bagus batrenya awet kiri lebih cepat abis menit lebih dulu banding yang kanan
+4,"headset nya cukup bagus, batrenya awet tapi yang kiri lebih cepet abis 20 menit lebih dulu dibanding yang kanan",positive,headset cukup bagus baterai awet kiri lebih cepat abis menit lebih dulu banding yang kanan
 5,mantap lah,positive,mantap
-5,"barang dah sampe n sesuai pesanan. dcash ok, cm blm dcoba ja. smg sesuai. suksee buat smua ny n smg slalu amanah",positive,barang dah sesuai pesan dcash ok cuma coba moga sesuai suksee buat semua ny moga selalu amanah
+5,"barang dah sampe n sesuai pesanan. dcash ok, cm blm dcoba ja. smg sesuai. suksee buat smua ny n smg slalu amanah",positive,barang dah dan sesuai pesan dcash ok cuma coba moga sesuai suksee buat semua dan moga selalu amanah
 5,"mantap, semoga awet👍👍",positive,mantap moga awet
 5,"barang sesuai pesanan, pengiriman cepat dan seller responsif",positive,barang sesuai pesan kirim cepat jual responsif
 5,good lah semoga awet,positive,bagus moga awet
@@ -1361,7 +1361,7 @@ rating,comment,sentiment,clean_comment
 4,"lumayanlah, sesuai harga",positive,lumayan sesuai harga
 5,"mantap kren, suara josss banget, basss nya ok",positive,mantap kren suara mantap sangat basss ok
 5,mantap sesuai ap yg ad diiklankan,positive,mantap sesuai ap ad iklan
-2,bagian kiri sama sekali tidak ada suara sama sekali,negative,bagi kiri sama sekali tidak suara sama sekali
+2,bagian kiri sama sekali tidak ada suara sama sekali,negative,kiri sama sekali tidak suara sama sekali
 5,barangnya rekomended..ok banget,positive,barang rekomended ok sangat
 4,"kualitas sesuai harga . tapi kapok pake pengiriman s*cepat, barang tiba 4 hari setelah estimasi tiba. itu pun harus chat cs nya dulu",positive,kualitas sesuai harga kapok pake kirim cepat barang tiba hari estimasi tiba pun chat cs dulu
 3,cuma 1 yang berfungsi,neutral,cuma fungsi
@@ -1397,7 +1397,7 @@ rating,comment,sentiment,clean_comment
 5,kualitasnya bagus banget,positive,kualitas bagus sangat
 5,"berfungsi normal, docking charger nya lumayan gede, semoga awet tahan lama earphonenya",positive,fungsi normal docking charger lumayan besar moga awet tahan lama earphonenya
 4,kualitas lumayan dengan harga segitu. suara juga bagus..,positive,kualitas lumayan harga segitu suara bagus
-5,produk sesuai pic. bisa digunakan dgn baik. oke.. smg awet. dkin sukses tokonya. terimakasih,positive,produk sesuai gambar guna baik oke moga awet dkin sukses toko terima kasih
+5,produk sesuai pic. bisa digunakan dgn baik. oke.. smg awet. dkin sukses tokonya. terimakasih,positive,produk sesuai gambar guna baik oke moga awet makin sukses toko terima kasih
 5,barangnya oke dan berfungsi dengan baik,positive,barang oke fungsi baik
 5,nice,positive,nice
 5,"sudah sampai tepat waktu, packing aman, sudah dicoba charge 100% dipakai aman.. semoga awet.. terima kasih seller & toped.. :)",positive,sampai tepat waktu packing aman coba charge pakai aman moga awet terima kasih jual tokopedia
@@ -1448,7 +1448,7 @@ rating,comment,sentiment,clean_comment
 5,"paket sampe dengan aman, isinya juga sesuai dengan pesanan. suaranya gatau bagus atau engga tapi kalo beli ini dijamin ganteng deh",positive,paket aman isi sesuai dengan pesan suara tidak tau bagus tidak kalo beli jamin ganteng deh
 5,sesuai dengan harga.,positive,sesuai harga
 4,mantap,positive,mantap
-1,"hanya berfungsi bagian kanan, pas bagian kiri di buka ternyata dalamnya putus + batrainya cepat habis",negative,fungsi bagi kanan pas bagi kiri buka nyata dalam putus baterai cepat habis
+1,"hanya berfungsi bagian kanan, pas bagian kiri di buka ternyata dalamnya putus + batrainya cepat habis",negative,fungsi kanan pas kiri buka nyata putus baterai cepat habis
 4,packing aman & rapi barang yang dateng sesuai,positive,packing aman rapi barang datang sesuai
 5,"terimakasih, paketnya sdh sampai, respon penjual cepat, packing aman, alat berfungsi dg baik suaranyapun bagus dan jernih",positive,terima kasih paket sampai respon jual cepat packing aman alat fungsi baik suara bagus jernih
 5,keren banget pokoknya harus cobain sendiri 😀,positive,keren sangat pokok cobain sendiri
@@ -1463,12 +1463,12 @@ rating,comment,sentiment,clean_comment
 5,mantuulll,positive,mantuulll
 5,ok,positive,ok
 5,"mantap, barang cepat sampai.",positive,mantap barang cepat
-5,pokoknya semua serba excellent baik barang ataupun pelayanan seller👍👍👍,positive,pokok semua serba bagus sekali baik barang atau layan jual
+5,pokoknya semua serba excellent baik barang ataupun pelayanan seller👍👍👍,positive,pokok semua serba bagus sekali baik barang layan jual
 5,bagus,positive,bagus
 5,mantapp,positive,mantap
 5,terima kasih barang selamat sampai tujuan,positive,terima kasih barang selamat tuju
 5,"barang sampai dengan aman. tws berkerja dengan baik. untuk suara bass pada tws terasa kurang enak didengar, tapi cocok untuk harganya yang murah.",positive,barang aman tws kerja dengan baik suara bass tws asa kurang enak dengar cocok harga murah
-5,"brg diterima sesuai pesanan. stlh di pakai daya tahan baterai kedua bt hny sekitar 2 jam perlu di isi ulang. tdk ada keterangan utk bt kiri dan kanan,jd busa dipakai semb...",positive,barang terima sesuai pesan stlh pakai daya tahan baterai dua bt hny jam perlu isi ulang tidak terang bt kiri kanan jadi busa pakai semb
+5,"brg diterima sesuai pesanan. stlh di pakai daya tahan baterai kedua bt hny sekitar 2 jam perlu di isi ulang. tdk ada keterangan utk bt kiri dan kanan,jd busa dipakai semb...",positive,barang terima sesuai pesan stlh pakai daya tahan baterai bt hny jam perlu isi ulang tidak terang bt kiri kanan jadi busa pakai semb
 1,barang bekas pakai.,negative,barang bekas pakai
 5,"pelayanan ramah, delivery cepat, barang ditest ok,,, terimakasih..",positive,layan ramah antar cepat barang tes ok terima kasih
 5,"murah, pengiriman cepat, suara oke",positive,murah kirim cepat suara oke
@@ -1491,23 +1491,23 @@ rating,comment,sentiment,clean_comment
 4,"alhamdulillah sudah sampe dengan selamat, tapi belum tau gimana hasilnya, soalnya belum di pake",positive,alhamdulillah sampai selamat tau bagaimana hasil soal belum di pake
 5,"mantap, suara sangat bagus",positive,mantap suara sangat bagus
 4,"batang sesuai deskripsi, bagus,",positive,batang sesuai deskripsi bagus
-5,lumayan bagus tapi entah kenapa yang bagian kanan cepat habis selisih sama yang kiri itu 4 menit baru yang kiri habis,positive,lumayan bagus entah bagi kanan cepat habis selisih sama kiri menit baru yang kiri habis
+5,lumayan bagus tapi entah kenapa yang bagian kanan cepat habis selisih sama yang kiri itu 4 menit baru yang kiri habis,positive,lumayan bagus entah kanan cepat habis selisih sama kiri menit baru yang kiri habis
 2,"tampilan bagus dan charger bekerja. tapi suaranya kemeresek, gak jelas, terutama ketika dayanya berkurang. baterai juga gak tahan lama. maaf gak bisa kasih rating bagus",negative,tampil bagus charger kerja suara gemeresik tidak jelas utama daya kurang baterai tidak tahan lama maaf tidak kasih rating bagus
 5,"brg berfungsi normal ,pengiriman cepat",positive,barang fungsi normal kirim cepat
 5,"bagus, iyu aja, suara lumayan bagus lah pake banget",positive,bagus iyu aja suara lumayan bagus pake sangat
 5,bagus awet.ga nyesel beli di sini,positive,bagus awet tidak nyesal beli sini
 5,"alhamdulillah barang sesuai dengan pesanan, berfungsi dengan baik juga, dan tahan lama baterai headset nya",positive,alhamdulillah barang sesuai pesan fungsi baik dan tahan lama baterai headset
 4,"kualitas fisik sesuai harga, kdg sering disconnect sendiri, suara notif keras bingung caranya nurunin volume notifnya, krn buku petunjuk tidak lengkap... kualitas suara l...",positive,kualitas fisik sesuai harga kadang sering putus sendiri suara notif keras bingung cara nurunin volume notifnya buku tunjuk tidak lengkap kualitas suara
-5,mantaf lh,positive,mantaf
+5,mantaf lh,positive,mantap
 1,barang rusak,negative,barang rusak
-5,"keren, adang berfungsi dengan baik. nyaman dipakai",positive,keren adang fungsi baik nyaman pakai
-5,"barangnya kecil mudah di bawa"", mudah untuk di gunakan serta penjualnya super ramah",positive,barang kecil mudah bawa mudah di guna jual super ramah
+5,"keren, adang berfungsi dengan baik. nyaman dipakai",positive,keren barang fungsi baik nyaman pakai
+5,"barangnya kecil mudah di bawa"", mudah untuk di gunakan serta penjualnya super ramah",positive,barang kecil mudah bawa mudah di serta jual super ramah
 5,"alhamdulillah barang bagus pengalaman pertama belanja di toko ini,,, dan tumben beli headset bluetooth butuh belajar sediki baru bisa konek,, terimakasih",positive,alhamdulillah barang bagus alam pertama belanja toko dan tumben beli headset bluetooth butuh ajar dik baru hubung terima kasih
 5,fast delivery.. kualitas terbaik..,positive,cepat antar kualitas baik
-5,"pengiriman cepat, suara oke bass terasa. koneksi bluetooth bagus, bisa buat charge hp juga. recommend. terima kasih seller, toko pedia dan kurir",positive,kirim cepat suara oke bass asa koneksi bluetooth bagus buat charge ponsel recommend terima kasih jual toko dia kurir
+5,"pengiriman cepat, suara oke bass terasa. koneksi bluetooth bagus, bisa buat charge hp juga. recommend. terima kasih seller, toko pedia dan kurir",positive,kirim cepat suara oke bass asa koneksi bluetooth bagus buat charge ponsel recommend terima kasih jual toko dan kurir
 3,displaynya ketinggalan kali ya apa displaynya dijual terpisah,neutral,displaynya tinggal kali apa displaynya jual pisah
 5,terimakasih 🙏 barang udah sampe sesuai sama yg di poto top bgt buat kulirnya ramah,positive,terima kasih barang udah sesuai sama di poto baik sangat buat kulir ramah
-5,alhamdulillah barang udah sampai dan berfungsi sebagai mana mestinya terima kasih seller,positive,alhamdulillah barang udah dan fungsi mana mesti terima kasih jual
+5,alhamdulillah barang udah sampai dan berfungsi sebagai mana mestinya terima kasih seller,positive,alhamdulillah barang udah dan fungsi bagai mana mesti terima kasih jual
 5,semoga sesuai dgn harapan dan harga,positive,moga sesuai harap harga
 5,bagus sesuai gambar suara mantap,positive,bagus sesuai gambar suara mantap
 3,suara kurang greget,neutral,suara kurang greget
@@ -1518,16 +1518,16 @@ rating,comment,sentiment,clean_comment
 4,mantap lah untuk sesuai ukuran harganya,positive,mantap sesuai ukur harga
 5,barang sesuai pesanan dan fitur berfungsi dengan baik,positive,barang sesuai pesan fitur fungsi baik
 2,1.respon yg lambat dr penjual 2.kurir juga yg terlalu lama 3.pesanan smpe terlalu lama dr batas waktu pesanan,negative,respon lambat jual kurir yang terlalu lama pesan terlalu lama batas waktu pesan
-5,"sudah dicoba berfungsi dengan baik... sayangnya udah beli buble warp lagi tapi bungkus alakadarnya, kirain bakalan tebal 😑",positive,coba fungsi baik sayang udah beli bubble bungkus tapi bungkus ada kirain bakal tebal
+5,"sudah dicoba berfungsi dengan baik... sayangnya udah beli buble warp lagi tapi bungkus alakadarnya, kirain bakalan tebal 😑",positive,coba fungsi baik sayang udah beli bubble bungkus tapi bungkus kirain bakal tebal
 5,pas pertama kali coba tadi suara sebelah kanan kok gak pair sama yang seblah kiri alhasil yang sebelah kanan gak ada suara saya coba masukin dulu bluetooth nya ke tempat...,positive,pas pertama kali coba tadi suara belah kanan kok tidak pair sama seblah kiri alhasil belah kanan tidak suara coba masukin dulu bluetooth ke tempat
 2,suara sering delay... gak dijelaskan kirain powebank buat hp ternyata tidak bisa,negative,suara sering delay tidak jelas kirain powebank buat ponsel nyata tidak
-5,klu barang sih oke tpi tolong diperbaiki dibagian pengiriman sbb agak lambat,positive,kalau barang sih oke tolong baik bagi kirim sbb lambat
+5,klu barang sih oke tpi tolong diperbaiki dibagian pengiriman sbb agak lambat,positive,kalau barang sih oke tolong baik kirim sbb lambat
 3,pengiriman tidak tepat waktu alias lama.,neutral,kirim tidak tepat waktu alias lama
 4,suara headset nya bagus. cuma kurang nyaman karena bentuk nya aga lebih gede jadi kalo pake lama lumayan sakit,positive,suara headset bagus cuma kurang nyaman bentuk agak lebih besar jadi kalo pake lama lumayan sakit
 4,bagus sih tpi ga bisa nyala gitu padahal udh dicas,positive,bagus sih tidak nyala padahal cas
 5,barangnya bagus,positive,barang bagus
 5,"packing aman, berfungsi dengan baik 👍",positive,packing aman fungsi baik
-5,"paraaah...ini mah josss...ga sampe 100rb barangnya baguss cooy...suara nyamaan, cas cepet. worth it 👍",positive,paraaah mah mantap tidak ribu barang bagus cooy suara nyamaan cas cepat harga
+5,"paraaah...ini mah josss...ga sampe 100rb barangnya baguss cooy...suara nyamaan, cas cepet. worth it 👍",positive,paraaah mah mantap tidak ribu barang bagus cooy suara nyaman cas cepat harga
 5,"barangnya cukup bagus klu dengan harga sekian, namanya buat anak2, cukup lah. pengirimnya juga cepat dan seller cepat responsif. cuma kardusnya banyak yg rusak, tp ga ma...",positive,barang cukup bagus kalau harga sekian nama buat anak cukup kirim cepat jual cepat responsif cuma kardus banyak rusak tidak ma
 5,"barang bagus, packingnya rapih tapi masalahnya bosnya penyok tapi tidak masalah, barang sampai tujuan 👍",positive,barang bagus packingnya rapih masalah bos penyok tidak masalah barang tuju
 5,barang bagus sesuai pesanan,positive,barang bagus sesuai pesan
@@ -1545,19 +1545,19 @@ rating,comment,sentiment,clean_comment
 5,bagus,positive,bagus
 5,"barang berfungsi baik, suara oke jernih, nyaman dipake, moga awet",positive,barang fungsi baik suara oke jernih nyaman dipake moga awet
 4,"paket udah nyampe,tapi pengiriman nya lama,,barang sesuai deskripsi,tks seller",positive,paket udah tapi kirim lama barang sesuai deskripsi terima kasih jual
-5,"mf min baru kasih ulasan baru ingat klu ad pesnan ,,,ibu kost sama kurir nya g ad menghubungi ,paking rapi pengiriman cepat recomended lah buat nieh toko ,,,ni aj baru ny...",positive,maaf min baru kasih ulas baru ingat kalau ad pesnan ibu kost sama kurir ad hubung emas rapi kirim cepat recomended buat nieh toko aja baru ny
+5,"mf min baru kasih ulasan baru ingat klu ad pesnan ,,,ibu kost sama kurir nya g ad menghubungi ,paking rapi pengiriman cepat recomended lah buat nieh toko ,,,ni aj baru ny...",positive,maaf min baru kasih ulas baru ingat kalau ad pesnan ibu kost sama kurir ad hubung emas rapi kirim cepat recomended buat nieh toko aja baru
 5,respon seller tetap the best n buat kurirnya ok banget walau hujan tetap mengantar paket. bravo....👍👍👍👍👍,positive,respon jual tetap the best buat kurir ok sangat hujan tetap antar paket bravo
 5,packing aman. pengiriman cepat. seller responsif. suara oke. kenyamanan ear tipsnya oke. kualitas cukup baik. koneksi aman. material plastik. cukup baik. rekomendasi. tha...,positive,packing aman kirim cepat jual responsif suara oke nyaman ear tipsnya oke kualitas cukup baik koneksi aman material plastik cukup baik rekomendasi tha
 5,coba dengar deathcore oke bass nya,positive,coba dengar deathcore oke bass
 5,pelayanan ok barangnya bassnya kurang alias cempreng,positive,layan ok barang bassnya kurang alias jelek
 1,cpt rusak baru di pake 2x udah gk bisa di casi,negative,cepat rusak baru pake udah gak di cas
 5,peking baik..... kwalitas suara oke... mantul,positive,peking baik kualitas suara oke mantap betul
-5,"alhamdulillaah paket sdh sampe, aman dan bisa berfungsi dgn baik .. amanah selalu y kak .. abg kurir ny juga baik",positive,alhamdulillaah paket sampai aman bisa fungsi baik amanah selalu kak abg kurir ny baik
+5,"alhamdulillaah paket sdh sampe, aman dan bisa berfungsi dgn baik .. amanah selalu y kak .. abg kurir ny juga baik",positive,alhamdulillaah paket sampai aman bisa fungsi baik amanah selalu kak abg kurir juga baik
 5,"udh diterima, kirim cepat dan kualitasnya oke",positive,terima kirim cepat kualitas oke
 4,ok,positive,ok
 5,"berfungsi dengan baik sesuai ekspektasi, semoga awet.",positive,fungsi baik sesuai ekspektasi moga awet
 5,suaranya bagus tapi kalo di sentuh sensornya ke google asisten terus,positive,suara bagus kalo sentuh sensor google asisten terus
-5,sumpah sih ini tws paling worth menurut saya,positive,sumpah sih tws paling harga saya
+5,sumpah sih ini tws paling worth menurut saya,positive,sumpah sih tws paling harga turut
 5,barang aman lumayan lah buat dengerin music atau main game,positive,barang aman lumayan buat dengerin music main game
 4,"barang sesuai gambar, kualitas sesuai harga",positive,barang sesuai gambar kualitas sesuai harga
 5,"barang sampai kondisi aman packing rapih, barang berkualitas suara yg di hasilkan tdk mengecewakan pokoknya tdk menyesal beli barang ini.",positive,barang kondisi aman packing rapih barang kualitas suara di hasil tidak kecewa pokok tidak sesal beli barang
@@ -1567,12 +1567,12 @@ rating,comment,sentiment,clean_comment
 5,"tws berfungsi baik, semua fitur sesuai deskripsi, harga bersahabat, recommended",positive,tws fungsi baik semua fitur sesuai deskripsi harga sahabat
 5,"paket sampai dengan aman, tanpa kendala.",positive,paket dengan aman kendala
 5,"barang bagus, cuma pengiriman nya aja lama",positive,barang bagus cuma kirim aja lama
-5,"barang mantap, sampenya cepet, berfungsi dgn baik.. keren",positive,barang mantap sampai cepat fungsi baik keren
+5,"barang mantap, sampenya cepet, berfungsi dgn baik.. keren",positive,barang mantap cepat fungsi baik keren
 5,"barangnya bagus, suaranya oke",positive,barang bagus suara oke
 4,kadang putus2 suaranya,positive,kadang putus suara
 5,brg smpai dgn slmt 👍👍,positive,barang dengan slmt
 5,keren bass ok,positive,keren bass ok
-5,"produk sudah sampai, berfungsi dengan baik, desain nyaman digunakan. tks yaa",positive,produk sampai fungsi baik desain nyaman guna terima kasih
+5,"produk sudah sampai, berfungsi dengan baik, desain nyaman digunakan. tks yaa",positive,produk sampai fungsi baik desain nyaman terima kasih
 4,suara ok kualitas ok satu saja paking barang hmmm kerdus rusak penyok tp soo far barang gak apa apa,positive,suara ok kualitas ok satu emas barang hmmm kerdus rusak penyok soo jauh barang tidak apa apa
 5,trims..packing rapi aman..cepat sampe..,positive,terima kasih packing rapi aman cepat
 5,"barang cukup bagus, paket dikirim tepat waktu",positive,barang cukup bagus paket kirim tepat waktu
@@ -1583,13 +1583,13 @@ rating,comment,sentiment,clean_comment
 4,"packing tidak dibungkus dus lagi, hanya dibungkus plastik dan buble wrap. utk hadiah, semoga berfungsi baik dan nerima suka suka. terimakasih seller 🙏😊",positive,packing tidak bungkus dus hanya bungkus plastik bubble wrap hadiah moga fungsi baik nerima suka suka terima kasih jual
 5,joss tenan...,positive,mantap tenan
 5,produk sesuai description.. suara bass mantep..,positive,produk sesuai deskripsi suara bass mantap
-5,"cepat sampainya, keren fungsinya bisa buat powerbank",positive,cepat sampai keren fungsi buat powerbank
+5,"cepat sampainya, keren fungsinya bisa buat powerbank",positive,cepat keren fungsi buat powerbank
 1,headsetnya tdk bisa dipakai alias matot,negative,headsetnya tidak pakai alias mati
 5,"barang sesuai pesanan,,semua berfungsi dg baik, harga bersahabat, keren",positive,barang sesuai pesan semua fungsi baik harga sahabat keren
 5,"paking rapi, produk baru di coba sebentat dan cukup baik",positive,emas rapi produk baru coba sebentat cukup baik
 5,"sesuai sama deskripsi, untuk harga segini lumayan lah kwalitas nya",positive,sesuai sama deskripsi harga gin lumayan kualitas
 5,"mantap sih, baterai tahan lama, di cas cepet, suara nggak putus-putus",positive,mantap sih baterai tahan lama cas cepat suara tidak putus putus
-5,"bagus, kirian mati satu atau dua duanya tapi enggak, kalau mati satu besok nya gak kaget sih namanya juga produk dibawah 💯",positive,bagus kiri mati satu dua dua enggak kalau mati satu besok tidak kejut sih nama produk bawah
+5,"bagus, kirian mati satu atau dua duanya tapi enggak, kalau mati satu besok nya gak kaget sih namanya juga produk dibawah 💯",positive,bagus kiri mati satu dua tapi enggak kalau mati satu besok tidak kejut sih nama produk bawah
 5,packingnya lumayan oke karena pakai bubble wrap.,positive,packingnya lumayan oke pakai bubble wrap
 5,"bagus barangnya, suka, tapi buat buku panduannya kurang lengkap buat how to use that....",positive,bagus barang suka buat buku pandu kurang lengkap buat how to use that
 5,"barang bagus, pengiriman cepat",positive,barang bagus kirim cepat
@@ -1621,8 +1621,8 @@ rating,comment,sentiment,clean_comment
 5,untuk suara masih bagus t9 nya,positive,suara bagus
 5,lumayan keren,positive,lumayan keren
 3,tipe nya salah padahal udh bener mesennya yg 5.1,neutral,tipe salah padahal benar mesennya
-5,"barang sampai dgn selamat, harga terbaik di kelasnya, suara yang dihasilkam sesuai ekspetasi",positive,barang dengan selamat harga baik kelas suara dihasilkam sesuai ekspetasi
-5,mantap .. lgs digunakan semoga tahan lama,positive,mantap langsung guna moga tahan lama
+5,"barang sampai dgn selamat, harga terbaik di kelasnya, suara yang dihasilkam sesuai ekspetasi",positive,barang dengan selamat harga baik kelas suara hasil sesuai ekspektasi
+5,mantap .. lgs digunakan semoga tahan lama,positive,mantap langsung moga tahan lama
 2,pesen 2 yg dtng cuma 1,negative,pesan datang cuma
 5,"keren, mudah link bt dan baik kualitas suaranya..",positive,keren mudah link bt baik kualitas suara
 4,"mantap,cuman respon chat sama pengiriman agak berlambat",positive,mantap cuman respon chat sama kirim lambat
@@ -1637,7 +1637,7 @@ rating,comment,sentiment,clean_comment
 5,ok,positive,ok
 4,"barang sampai diberi 4 bintang, karena plastik mika jam tidak ada, dan ada bekas lecet, burbel plastik masih baik atau utuh, keseluruhan masih ok, tingkatkan lagi, bravo",positive,barang beri bintang plastik mika jam tidak dan bekas lecet burbel plastik baik utuh seluruh ok tingkat bravo
 4,barang ok,positive,barang ok
-5,barang bagus bisa di gunakan,positive,barang bagus di guna
+5,barang bagus bisa di gunakan,positive,barang bagus di
 4,barang fs lebih murah tapi lebih bagus dari yang pinzy gaming ..,positive,barang fs lebih murah lebih bagus yang pinzy gaming
 5,terbaik aslinya 😎😎😎,positive,baik asli
 5,mantapp berfungsi dengan baik,positive,mantap fungsi baik
@@ -1647,11 +1647,11 @@ rating,comment,sentiment,clean_comment
 4,lumayan lah dgn hrga segitu,positive,lumayan harga segitu
 2,"setelah pemakaian beberapa hari, yang kiri nya suaranya samar-samar trus ilang padahal pemakaian saya gk berlebihan dan gk pernah ketindihan si twsnya",negative,pakai beberapa hari kiri suara samar samar trus hilang padahal pakai gak lebih gak pernah tindih si twsnya
 5,"bass oke. suara mantap, harga oke",positive,bass oke suara mantap harga oke
-5,keren sampai sekarang pun masih ok buat dengerin musik ataupun vc,positive,keren sekarang masih ok buat dengerin musik atau vc
+5,keren sampai sekarang pun masih ok buat dengerin musik ataupun vc,positive,keren sekarang masih ok buat dengerin musik vc
 5,top seller,positive,baik jual
 4,"bassnya enak, earbuts nya pas comfortable banget",positive,bassnya enak earbuts pas comfortable sangat
 5,pengiriman cepat barang aman👍,positive,kirim cepat barang aman
-4,"secara tampilan cukup ok, dg harga segitu kualitas suaranya cukup memuaskan lah ya.",positive,tampil cukup ok harga segitu kualitas suara cukup muas
+4,"secara tampilan cukup ok, dg harga segitu kualitas suaranya cukup memuaskan lah ya.",positive,cara tampil cukup ok harga segitu kualitas suara cukup muas
 5,sedikit kebesaran,positive,sedikit besar
 4,barangnya bagu,positive,barang bagu
 5,suaranya jernih,positive,suara jernih
@@ -1666,7 +1666,7 @@ rating,comment,sentiment,clean_comment
 5,trm ksh respon cepat barang smpi dengan aman smg sukses selalu.,positive,trm kasih respon cepat barang smpi aman moga sukses selalu
 5,mantap simpel tampilan bagus.,positive,mantap simpel tampil bagus
 5,"ok, bisa jd powerbank juga klo lg darurat",positive,ok jadi powerbank kalo darurat
-5,mantaf 👍,positive,mantaf
+5,mantaf 👍,positive,mantap
 5,"produk sesuai deskripsi, masih disegel. kemasan rapi, respon&pengiriman cepat. good seller",positive,produk sesuai deskripsi segel kemas rapi respon kirim cepat bagus jual
 5,mantap... sesuai pesanan.. berfungsi dengan baik... sudah dicoba... bassnya wouw... tq seller.. good job,positive,mantap sesuai pesan fungsi baik coba bassnya wouw terima kasih jual bagus job
 5,maksih kakak barang nya memuaskan makasih kakak,positive,maksih kakak barang muas terima kasih kakak
@@ -1680,10 +1680,10 @@ rating,comment,sentiment,clean_comment
 4,suara mantap untuk tws dibawah 100k. pengiriman cepat. dus agak tidak mulus tetapi masih ok. barang aman selamat sampai tujuan,positive,suara mantap tws bawah kirim cepat dus tidak mulus masih ok barang aman selamat tuju
 5,"mantap, suara aman, batre awet banget",positive,mantap suara aman baterai awet sangat
 5,"kualitas barang ok, harga murah dan seller responsif",positive,kualitas barang ok harga murah jual responsif
-3,"suaranya kurang bagus dan kurang nyaman dipake, beda sama yg jenis sebelumnya yg pernah beli. cempreng sekali.",neutral,suara kurang bagus kurang nyaman dipake beda sama jenis belum pernah beli jelek sekali
+3,"suaranya kurang bagus dan kurang nyaman dipake, beda sama yg jenis sebelumnya yg pernah beli. cempreng sekali.",neutral,suara kurang bagus kurang nyaman dipake beda sama jenis yang pernah beli jelek sekali
 5,barangnya bagus,positive,barang bagus
 5,"bagus, cuma bass kurang",positive,bagus cuma bass kurang
-1,hancurrrrrrrrrrrrrrr...........suara parahhhhhhhhhhhhhhhhhhhhhhhhhhhh gak lagii dehhhhhh,negative,hancurrrrrrrrrrrrrrr suara parahhhhhhhhhhhhhhhhhhhhhhhhhhhh tidak lagi dehhhhhh
+1,hancurrrrrrrrrrrrrrr...........suara parahhhhhhhhhhhhhhhhhhhhhhhhhhhh gak lagii dehhhhhh,negative,hancurrrrrrrrrrrrrrr suara parahhhhhhhhhhhhhhhhhhhhhhhhhhhh tidak dehhhhhh
 3,"pengiriman cepat, barangnya berfungsi dengan baik, tapi kualitas suaranya yang cempreng sekali. skala 1 sampai 10 utk kualitas suara aku beri skor 6. anyway sesuai harga...",neutral,kirim cepat barang fungsi baik kualitas suara jelek sekali skala untuk kualitas suara beri skor anyway sesuai harga
 5,worth it,positive,harga
 5,pengiriman cepat,positive,kirim cepat
@@ -1698,7 +1698,7 @@ rating,comment,sentiment,clean_comment
 5,"mantap, barang sesuai harapan, bass nya mantul, pakai volume kecilpun bass nya masih terasa, keren lah pokoknya.",positive,mantap barang sesuai harap bass mantap betul pakai volume kecil bass masih asa keren pokok
 5,"barang mantap,bas lumayan mantul..rekomen dgn harga sgtu batre awet",positive,barang mantap bass lumayan mantap betul rekomendasi harga sgtu baterai awet
 5,suara ok model ok kualitas ok koneksi juga ok materil ok over all ok murah tapi bukan murahan toppp,positive,suara ok model ok kualitas ok koneksi ok materil ok over all ok murah bukan murah toppp
-2,"suara kadang2 hilang , bagian kanan sering mati",negative,suara kadang hilang bagi kanan sering mati
+2,"suara kadang2 hilang , bagian kanan sering mati",negative,suara kadang hilang kanan sering mati
 5,"kualitas suara mendekati earbud kube1, cocok buat yg mau migrasi ke wireless + mic. harga terjangkau, pelayanan cepat",positive,kualitas suara dekat earbud kube cocok buat mau migrasi wireless mic harga jangkau layan cepat
 3,suara nya lebih dominan kiri,neutral,suara lebih dominan kiri
 4,"ada harga , ada kualitas! untuk harga segini cukuplah untuk pemakaian kasual. bagi gamer, jangan berekspektasi tinggi, tapi dengan kualitas begini cukup oke. yap yang dil...",positive,harga kualitas harga gin cukup pakai kasual gamer jangan berekspektasi tinggi dengan kualitas begini cukup oke yap dil
@@ -1718,11 +1718,11 @@ rating,comment,sentiment,clean_comment
 5,mantap deh barangnya 100% sama seperti yg di foto. semoga laris manis,positive,mantap deh barang sama yang foto moga laris manis
 5,mantap,positive,mantap
 4,"sampai selamat,ok, pengiriman lama bgt",positive,selamat ok kirim lama sangat
-5,"jujur percaya sama review youtube agak kurang di percaya , eh gak nyangka ternyata suara bagus si, kalau menurut saya , nanti saya balik lagi deh liat awet apa enggak ba...",positive,jujur percaya sama review youtube kurang percaya tidak sangka nyata suara bagus si kalau saya saya balik deh liat awet apa enggak
+5,"jujur percaya sama review youtube agak kurang di percaya , eh gak nyangka ternyata suara bagus si, kalau menurut saya , nanti saya balik lagi deh liat awet apa enggak ba...",positive,jujur percaya sama review youtube kurang percaya tidak sangka nyata suara bagus si kalau turut nanti balik deh liat awet apa enggak
 4,krn grtais nigkro jdia laam smpainay 5 ihar,positive,grtais nigkro jdia laam smpainay ihar
 5,mantapppp,positive,mantap
 5,"wah mantap suara jernih,bassnya ok .harga terjangkau lah bisa untuk cas hp juga lo ayo beli... headset bluetooth tws f9-5",positive,wah mantap suara jernih bassnya ok harga jangkau untuk cas ponsel ayo beli headset bluetooth tws
-5,unit sudah di terima..dan berfungsi dengan sanagt baik.bas nya bagus..treble juga seimbang..sanagat recomended..thanks seller..n tokopedia..,positive,unit di terima fungsi sanagt baik bass bagus treble imbang sanagat recomended terima kasih jual tokopedia
+5,unit sudah di terima..dan berfungsi dengan sanagt baik.bas nya bagus..treble juga seimbang..sanagat recomended..thanks seller..n tokopedia..,positive,unit di terima fungsi sangat baik bass bagus treble imbang sanagat recomended terima kasih jual tokopedia
 5,bagus,positive,bagus
 5,barang nya bagus kualitas nya okkkk topppppppppppp....,positive,barang bagus kualitas okkkk topppppppppppp
 3,bass ok... cuman putus nyambung,neutral,bass ok cuman putus nyambung
@@ -1741,17 +1741,17 @@ rating,comment,sentiment,clean_comment
 5,"suaranya bagus,keren,bassnya dpt, stereo.harga murah, semoga awet..",positive,suara bagus keren bassnya stereo harga murah moga awet
 5,barang mantap.. fungsi dengan baik,positive,barang mantap fungsi baik
 5,bagus,positive,bagus
-5,barang baguss cuma masih belum ngerti ada yg nyala matiinya belum faham (tanda lingkaran hijau),positive,barang bagus cuma ngerti yang nyala mati belum faham tanda lingkar hijau
+5,barang baguss cuma masih belum ngerti ada yg nyala matiinya belum faham (tanda lingkaran hijau),positive,barang bagus cuma ngerti yang nyala mati belum paham tanda lingkar hijau
 5,josssss,positive,mantap
 5,mantab,positive,mantap
 4,biar bintang aja yg komen,positive,biar bintang aja komen
 5,"barang bgus,cepat pengiriman",positive,barang bagus cepat kirim
 4,salah sy sendiri beli produk murah jd kualitas jg jauh dr harapan...maaf,positive,salah sendiri beli produk murah jadi kualitas jauh harap maaf
-2,kok karet cadaganya gak di kasih.kmrn tmn beli dpt karet cadaganya,negative,kok karet cadang tidak kasih kmrn tmn beli karet cadang
+2,kok karet cadaganya gak di kasih.kmrn tmn beli dpt karet cadaganya,negative,kok karet cadang tidak kasih kemarin tmn beli karet cadang
 5,"barang oke, awal an hrus dcas dlu",positive,barang oke awal an hrus dcas dulu
 5,bagus,positive,bagus
-5,seaui pesanan p rada susah sambungnya,positive,seaui pesan rada susah sambung
-5,selama pemakaian sampe sekarang awetttt,positive,lama pakai sekarang awetttt
+5,seaui pesanan p rada susah sambungnya,positive,sesuai pesan rada susah sambung
+5,selama pemakaian sampe sekarang awetttt,positive,lama pakai sekarang awet
 5,"klau ini sesuai pesanan gak salah lagi,",positive,kalau sesuai pesan tidak salah
 5,bagus lah sesuai harga...saya kira rusak ternyata ngedrop... gk bikin kecewa.. gk kasih foto lg error buat upload,positive,bagus sesuai harga kira rusak nyata ngedrop gak bikin kecewa gak kasih foto salah buat upload
 5,murah meriah 👍,positive,murah riah
@@ -1765,8 +1765,8 @@ rating,comment,sentiment,clean_comment
 5,barang oke,positive,barang oke
 4,"berfungsi dgn baik,pengiriman cpat",positive,fungsi baik kirim cepat
 1,"tidak bisa di charger, saya sudah coba pakai kabel type c to usb dan usb to usb masih tidak bisa. kayaknya ada kerusakan di boxnya, sejak awal terima baru saya cek koneks...",negative,tidak charger sudah coba pakai kabel type to usb usb to usb tidak kayak rusa di boxnya sejak awal terima baru cek koneks
-4,gk smpt difoto krn hedseatnya lgsng di serahkan ke seseorg sbgai kado. smoga saja bisa awet digunakan nnti. trims ya buat kurir & pedagang nya,positive,gak smpt foto hedseatnya lgsng serah seseorg sbgai kado moga bisa awet guna nnti terima kasih buat kurir dagang
-5,mantap berfungsi keduanya dan ada harga ada kualitas.,positive,mantap fungsi dua harga ada kualitas
+4,gk smpt difoto krn hedseatnya lgsng di serahkan ke seseorg sbgai kado. smoga saja bisa awet digunakan nnti. trims ya buat kurir & pedagang nya,positive,gak smpt foto hedseatnya lgsng serah seseorg sbgai kado moga bisa awet nnti terima kasih buat kurir dagang
+5,mantap berfungsi keduanya dan ada harga ada kualitas.,positive,mantap fungsi dan harga kualitas
 5,kelazzz,positive,kelazzz
 1,warna beda sama yg saya pesan saya pesan warna hitam yg datang warna putih,negative,warna beda sama pesan saya pesan warna hitam datang warna putih
 3,suka putus putus jaringannya,neutral,suka putus putus jaring
@@ -1780,7 +1780,7 @@ rating,comment,sentiment,clean_comment
 5,"responsive seller, barang udah sampai, tapi blm dicoba",positive,responsive jual barang udah tapi coba
 4,suaranya suka putus2,positive,suara suka putus
 5,"barang baru masih segel dengan baik,,semua berfungsi keran lah.",positive,barang baru segel baik semua fungsi keran
-4,"work normal, tapi perlu direset dulu biar kedua earbudnya nyambung. kurir....agak payah, tp ndak ada hubungannya.",positive,kerja normal perlu direset dulu biar dua earbudnya nyambung kurir payah tidak hubung
+4,"work normal, tapi perlu direset dulu biar kedua earbudnya nyambung. kurir....agak payah, tp ndak ada hubungannya.",positive,kerja normal perlu direset dulu biar earbudnya nyambung kurir payah tidak hubung
 5,"pengiriman cepat, kualitas barang bagus, suaranya pas, konektivitas juga sangat mudah.",positive,kirim cepat kualitas barang bagus suara pas konektivitas sangat mudah
 5,"berfungsi dgn baik, kualitasnya bagus. minus headset yg sebelah kana longgar, jdi kebuka.",positive,fungsi baik kualitas bagus minus headset belah kana longgar jadi buka
 5,kerenn bngett,positive,kerenn bngett
@@ -1792,7 +1792,7 @@ rating,comment,sentiment,clean_comment
 2,baru pakai sehari headset sebelah kanan matot..,negative,baru pakai hari headset belah kanan mati
 5,"mantap,sesuai harga",positive,mantap sesuai harga
 4,"brg ok.. cuma suaranya kadang patah"".. wajar sih brg murah.. proses pengiriman rada lama.. klo ud dbwa expedisi cpt.",positive,barang ok cuma suara kadang patah wajar sih barang murah proses kirim rada lama kalo dbwa expedisi cepat
-5,"ini ulasan setelah 20 hari pemakaian, minus nya itu batre di casingnya ga awet, soalnya pas ngecas earbud nya dari 100 ke 50 itu normal terkuras dayanya, tapi pas udah ny...",positive,ulas hari pakai minus itu baterai casingnya tidak awet soal pas ngecas earbud dari itu normal kuras daya pas udah ny
+5,"ini ulasan setelah 20 hari pemakaian, minus nya itu batre di casingnya ga awet, soalnya pas ngecas earbud nya dari 100 ke 50 itu normal terkuras dayanya, tapi pas udah ny...",positive,ulas hari pakai minus itu baterai casingnya tidak awet soal pas ngecas earbud dari itu normal kuras daya pas udah
 3,"nyaman di kuping, audio musik bagus, tapi mic nya lbh menangkap suara sekitar drpd suara sndiri",neutral,nyaman telinga audio musik bagus mic lebih tangkap suara daripada suara sendiri
 5,semoga awet senang tiasa..,positive,moga awet senang tiasa
 5,barang dah di terima dengan selamat. pokoknya mantul..,positive,barang dah terima selamat pokok mantap betul
@@ -1804,7 +1804,7 @@ rating,comment,sentiment,clean_comment
 5,mantap suaranya gokill,positive,mantap suara gokill
 5,"barang bagus original, pasangnya mudah pemakaiannya mudah smart bagus suara jernih mantap dan keliatan keren dipakai",positive,barang bagus original pasang mudah pakai mudah pintar bagus suara jernih mantap liat keren pakai
 5,good,positive,bagus
-3,sebelah kiri bermasalah..sepertinya batrenya sdh tdk bagus..kiri sering diskonek peer nya dgn yg kanan..sehingga cmn kanan yg terdengar,neutral,belah kiri masalah seperti batrenya tidak bagus kiri sering diskonek peer dengan kanan cmn kanan dengar
+3,sebelah kiri bermasalah..sepertinya batrenya sdh tdk bagus..kiri sering diskonek peer nya dgn yg kanan..sehingga cmn kanan yg terdengar,neutral,belah kiri masalah baterai tidak bagus kiri sering diskonek peer dengan kanan cmn kanan dengar
 1,koneksi jelek,negative,koneksi jelek
 5,"setelah diterima dan saya pakai beberapa hari, baterainya tahan lama baik itu baterai headset maupun powerbank nya... kayaknya sekali cas power bank bisa lebih seminggu d...",positive,terima saya pakai beberapa hari baterai tahan lama baik baterai headset maupun powerbank kayak sekali cas power bank lebih minggu
 5,"reapon cepat, delivery cepat, semoga awet krn blm dicoba..tks",positive,reapon cepat antar cepat moga awet belum coba terima kasih
@@ -1813,7 +1813,7 @@ rating,comment,sentiment,clean_comment
 3,ga ada bas nya sama sekali,neutral,tidak bass sama sekali
 4,ternyata alatnya gede,positive,nyata alat besar
 5,produk sesuai dengan deskripsi dan gambar,positive,produk sesuai deskripsi gambar
-5,"barang nyaman d pakai,harga murah,masih belum tau awet gak batrenya,tampilannya juga bagus",positive,barang nyaman pakai harga murah belum tau awet tidak batrenya tampil bagus
+5,"barang nyaman d pakai,harga murah,masih belum tau awet gak batrenya,tampilannya juga bagus",positive,barang nyaman pakai harga murah belum tau awet tidak baterai tampil bagus
 5,barang sudah saya terima dalam.kondisi baik... semoga awet.. terimakasih seller,positive,barang saya terima kondisi baik moga awet terima kasih jual
 2,"kualitas suara biasa aja malah mirip hedset pinzy yg kabel. bass nya ga deep malah sedikit cempreng kadang yg sebelah suka keresek, udah di beli tapi ga bisa di retur. p...",negative,kualitas suara biasa aja malah mirip headset pinzy kabel bass tidak deep malah sedikit jelek kadang belah suka keresek udah beli tidak di retur
 5,"barang original, suara merdu dan terjamin kualitasnya mantap.",positive,barang original suara merdu jamin kualitas mantap
@@ -1824,9 +1824,9 @@ rating,comment,sentiment,clean_comment
 5,belum dicoba lama si tapi pemakaian sekitar 1 jam normal,positive,coba lama si pakai jam normal
 1,"pas dipakai suaranya kada idup kadang mati walaupun sudah di cas lama, ya emang harga ga pernah bohong x ya",negative,pas pakai suara kada hidup kadang mati walaupun di cas lama memang harga tidak pernah bohong
 5,ok sesuai dengan pesanan tapi kurang bass headset bluetooth nya,positive,ok sesuai pesan kurang bass headset bluetooth
-3,"untuk penggunaan seharian lumayan awet, tapi kadang ada trouble dimana headset sebelah kanan error, kaya kresek kresek gtu, trus kadang disconect sendiri, trus nyambung l...",neutral,guna hari lumayan awet kadang trouble headset belah kanan salah kaya kresek kresek trus kadang disconect sendiri trus nyambung
+3,"untuk penggunaan seharian lumayan awet, tapi kadang ada trouble dimana headset sebelah kanan error, kaya kresek kresek gtu, trus kadang disconect sendiri, trus nyambung l...",neutral,guna hari lumayan awet kadang trouble mana headset belah kanan salah kaya kresek kresek trus kadang disconect sendiri trus nyambung
 5,barang bagus,positive,barang bagus
-4,"sayang suaranya kurang empuk,tapi ya lumayan semoga aja awet,terima kasih seller dan toko pedia.",positive,sayang suara kurang empuk ya lumayan moga aja awet terima kasih jual toko dia
+4,"sayang suaranya kurang empuk,tapi ya lumayan semoga aja awet,terima kasih seller dan toko pedia.",positive,sayang suara kurang empuk ya lumayan moga aja awet terima kasih jual toko
 5,"barang mantap sesuai gambar yg lagi liat"" boleh langsung beli barang oke semua",positive,barang mantap sesuai gambar lagi liat langsung beli barang oke semua
 4,uda dicoba lumayan bagus. harga murah,positive,coba lumayan bagus harga murah
 5,ok. berfungsi baik,positive,ok fungsi baik
@@ -1896,7 +1896,7 @@ rating,comment,sentiment,clean_comment
 5,good quality dan kerennn,positive,bagus quality kerennn
 5,"mantab tws nya. stereonya fungsi. tapi bicara kualitas audio, ya ada harganya",positive,mantap tws stereo fungsi bicara kualitas audio ada harga
 5,barang bagus sesuai diakripsi....trims,positive,barang bagus sesuai diakripsi terima kasih
-5,barang sesuai pesanan.suaranya mantaf.trebelnya mantaf.bassnya lumayan. dan terakhir batrainya awet.kurir cepat. ini baru is the besss.,positive,barang sesuai pesan suara mantaf trebelnya mantaf bassnya lumayan akhir baterai awet kurir cepat baru is the besss
+5,barang sesuai pesanan.suaranya mantaf.trebelnya mantaf.bassnya lumayan. dan terakhir batrainya awet.kurir cepat. ini baru is the besss.,positive,barang sesuai pesan suara mantap trebelnya mantap bassnya lumayan akhir baterai awet kurir cepat baru is the besss
 5,"kualitas ok, sesuai deskripsi, pengiriman cepat,",positive,kualitas ok sesuai deskripsi kirim cepat
 5,"ada harga ada kualitas, kalau ekspektasimu terlalu tinggi mending beli yang branded sekalian. btw, barang yang gw terima sebelah kiri mati awalnya tapi mau nyambung tiba...",positive,harga kualitas kalau ekspektasimu terlalu tinggi mending beli branded sekali btw barang saya terima belah kiri mati awal mau nyambung tiba
 3,kualitas sesuai harga.,neutral,kualitas sesuai harga
@@ -1910,7 +1910,7 @@ rating,comment,sentiment,clean_comment
 5,barangnya dah yampe sesuwe pesanan.tokoya amanah kurirya yaramah,positive,barang dah yampe sesuwe pesan tokoya amanah kurirya yaramah
 5,mantab... kwalitas suara bagus bgt untuk harga segitu.. pengiriman sangat cepat 1x24 jam.. order sabtu sampe rumah minggu..,positive,mantap kualitas suara bagus sangat harga segitu kirim sangat cepat jam order sabtu rumah minggu
 5,pengiriman nya cepat dan packing nya rapih,positive,kirim cepat packing rapih
-5,"suara bagus, hanya saja pengiriman harusnya lebih cepat tp ternyata terlambat padahal udh pilih yg paling cpet",positive,suara bagus saja kirim harus lebih cepat nyata lambat padahal pilih paling cepat
+5,"suara bagus, hanya saja pengiriman harusnya lebih cepat tp ternyata terlambat padahal udh pilih yg paling cpet",positive,suara bagus saja kirim lebih cepat nyata lambat padahal pilih paling cepat
 5,"pelayanan oke, transaksi langsung diproses dan dikirim dihari yg sama jadi cepat sampai. produk sesuai deskripsi, belum dicoba.",positive,layan oke transaksi langsung proses kirim hari sama jadi cepat produk sesuai deskripsi coba
 5,"mantep cuy, paket sampai dengan selamat (ya walaupun dus nya penyok) dan alhamdulillah gk ada kerusakan apapun",positive,mantap cuy paket dengan selamat walaupun dus penyok alhamdulillah gak rusa apa
 5,"barangnya bagus, pengiriman cepat, pokoknya puas",positive,barang bagus kirim cepat pokok puas
@@ -1950,7 +1950,7 @@ rating,comment,sentiment,clean_comment
 5,"sejauh ini mantabbb,,, seller ok, barang ok",positive,jauh mantabbb jual ok barang ok
 4,kualitas sesuai dengan harga,positive,kualitas sesuai harga
 5,barang original,positive,barang original
-5,barang sesuai pesanan dan berfungsi baik.. seller cepat dam responsif,positive,barang sesuai pesan fungsi baik jual cepat dam responsif
+5,barang sesuai pesanan dan berfungsi baik.. seller cepat dam responsif,positive,barang sesuai pesan fungsi baik jual cepat responsif
 5,"untuk barang dibawah 100k, ini cukup bagus",positive,barang bawah cukup bagus
 4,bgus aja ... blm tau umur y brapa lama,positive,bagus aja tau umur brapa lama
 5,harga sesuai kwalitas. 👍👍,positive,harga sesuai kualitas
@@ -1966,7 +1966,7 @@ rating,comment,sentiment,clean_comment
 5,barang bagus,positive,barang bagus
 4,terimakasih barang nya sudah sampai sesuai pesanan semoga awet,positive,terima kasih barang sudah sesuai pesan moga awet
 5,mayanlah sesuai dengan harga .,positive,lumayan sesuai harga
-4,"batrenya awet, kualitas suaranya sendiri worth it kok untuk ukuran harganya walaupun kayaknya untuk pecinta bass serasa kurang, tapi untuk saya yg suka musik yg dominan d...",positive,batrenya awet kualitas suara sendiri harga kok ukur harga walaupun kayak cinta bass serasa kurang untuk suka musik yang dominan
+4,"batrenya awet, kualitas suaranya sendiri worth it kok untuk ukuran harganya walaupun kayaknya untuk pecinta bass serasa kurang, tapi untuk saya yg suka musik yg dominan d...",positive,baterai awet kualitas suara sendiri harga kok ukur harga walaupun kayak cinta bass serasa kurang untuk suka musik yang dominan
 1,dok casan nya dah ga bisa cas cepat mati,negative,dok charger dah tidak cas cepat mati
 3,headset sebelah kiri suaranya kecil,neutral,headset belah kiri suara kecil
 3,"overall bagus pengiriman sesuai, tapi untuk yang sebelah kanan ketika di connectkan ada sedikit bunyi nging nging yng cukup menggangu, sukses selalu",neutral,seluruh bagus kirim sesuai untuk belah kanan di connectkan sedikit bunyi nging nging cukup menggangu sukses selalu
@@ -2000,7 +2000,7 @@ rating,comment,sentiment,clean_comment
 5,"barang sudah di terima, dan berfungsi dgn 👍",positive,barang di terima fungsi
 5,good produk,positive,bagus produk
 5,"barang bagus, suara jernih, pengiriman cepat,.. rekomendasi utk penjual nya..",positive,barang bagus suara jernih kirim cepat rekomendasi jual
-5,beli kedua kalinya... puas dengan barangnya.. semoga awet,positive,beli dua kali puas barang moga awet
+5,beli kedua kalinya... puas dengan barangnya.. semoga awet,positive,beli kali puas barang moga awet
 5,sesuai harga berfungsi dengan baik,positive,sesuai harga fungsi baik
 5,"harga terjangkau, suara oke, tidak ada yang cacat berfungsi normal semuanya. thank you seller",positive,harga jangkau suara oke tidak yang cacat fungsi normal semua terima kasih kamu jual
 5,siiiip,positive,siiiip
@@ -2032,7 +2032,7 @@ rating,comment,sentiment,clean_comment
 5,kasih 5 bintang ..oke lah anak seneng,positive,kasih bintang oke anak senang
 2,mudah rusak earbudsnya satu cepet abis satu lagi ga bisa di charge,negative,mudah rusak earbudsnya satu cepat abis satu tidak di charge
 4,"pengiriman cepat, barang berfungsi dg baik",positive,kirim cepat barang fungsi baik
-5,"twsnya bagus, kekurangan sama kaya review yang lain suara sering ilang di awal penggunaan untuk 1-3 detik tapi setelah itu normal. kualitas suara sangat bagus untuk di ha...",positive,twsnya bagus kurang sama kaya review lain suara sering hilang awal guna detik telah normal kualitas suara sangat bagus di ha
+5,"twsnya bagus, kekurangan sama kaya review yang lain suara sering ilang di awal penggunaan untuk 1-3 detik tapi setelah itu normal. kualitas suara sangat bagus untuk di ha...",positive,twsnya bagus kurang sama kaya review lain suara sering hilang awal detik telah normal kualitas suara sangat bagus untuk di ha
 5,respon baik pengiriman cepat.. utk brg ga bisa komen krn hilang sebelum dicoba☺,positive,respon baik kirim cepat barang tidak komen hilang coba
 3,suaranya kresek2 dan jauh,neutral,suara kresek jauh
 3,"yg dateng beda dari yg dipesen, headset sebelah kanan bunyi kresek² mulu",neutral,datang beda yang sen headset belah kanan bunyi kresek mulu
@@ -2057,7 +2057,7 @@ rating,comment,sentiment,clean_comment
 1,"di detail pesanan saya pesen f9-5 bukan f9-5.1 di catatan juga saya tulis , yang dikirim tetep aja f9-5.1 kalo barangnya ga ada hapus aja lah , jangan dikirim yang lain .",negative,detail pesan pesan bukan catat saya tulis kirim tetep aja kalo barang tidak hapus aja jangan kirim lain
 5,harganya terjangkau value for money penjualnya ramah banget proses pesanan cepat,positive,harga jangkau value uang jual ramah sangat proses pesan cepat
 1,yang dateng beda tipe,negative,datang beda tipe
-5,"mantap dengan harga segini...bisa muncul indikator pengisian, bisa tap tap berbagai fungsi, dan bisa jadi powerbank sih mantap banget...tentunya ada kekurangan yaitu jara...",positive,mantap harga gin muncul indikator isi tap tap bagai fungsi bisa jadi powerbank sih mantap sangat tentu kurang jara
+5,"mantap dengan harga segini...bisa muncul indikator pengisian, bisa tap tap berbagai fungsi, dan bisa jadi powerbank sih mantap banget...tentunya ada kekurangan yaitu jara...",positive,mantap harga gin muncul indikator isi tap tap bagai fungsi bisa jadi powerbank sih mantap sangat ada kurang jara
 5,barangnya original 👍 koneksi android lancar suaranya bersih proses pesanan cepat,positive,barang original koneksi android lancar suara bersih proses pesan cepat
 1,pembelian ke 2 asli kecewa beda dgn tipe dan deskripsi nya,negative,beli asli kecewa beda tipe deskripsi
 5,yaa lumayan la walaupun yg dateng malah f9-5.1 tapi oke la,positive,lumayan walaupun datang malah oke
@@ -2074,10 +2074,10 @@ rating,comment,sentiment,clean_comment
 5,barangnya original 👍,positive,barang original
 5,lumayan bagus untuk harga segini,positive,lumayan bagus harga gin
 5,terimakasih banyak untuk best seller dan cepat datang.,positive,terima kasih banyak best jual cepat datang
-5,pembelian kedua kali dari seller ini dengan respon yang cepat produk berfungsi dengan baik pengiriman sesuai dengan estimasi semoga seller semakin sukses,positive,beli dua kali jual respon cepat produk fungsi baik kirim sesuai dengan estimasi moga jual makin sukses
+5,pembelian kedua kali dari seller ini dengan respon yang cepat produk berfungsi dengan baik pengiriman sesuai dengan estimasi semoga seller semakin sukses,positive,beli kali jual respon cepat produk fungsi baik kirim sesuai dengan estimasi moga jual makin sukses
 1,barang yang dibeli kemasan kondisi penyok segingga kemasan rusak belum di coba kualitasnya,negative,barang beli kemas kondisi penyok segingga kemas rusak di coba kualitas
 5,barangnya original 👍 suaranya jernih suaranya bersih,positive,barang original suara jernih suara bersih
-5,batrenya awet...mantap,positive,batrenya awet mantap
+5,batrenya awet...mantap,positive,baterai awet mantap
 4,"suara bagus, tetapi sinyalnya suka ilang""an",positive,suara bagus sinyal suka hilang an
 5,barang bagus,positive,barang bagus
 5,harganya terjangkau kualitas sesuai harga lumayan lah harga standar kualitas pun standar,positive,harga jangkau kualitas sesuai harga lumayan harga standar kualitas standar
@@ -2095,7 +2095,7 @@ rating,comment,sentiment,clean_comment
 5,joss good 👍👍👍,positive,mantap bagus
 4,"barang lumayan,,,sesuai harga,,,pengiriman lama,,,",positive,barang lumayan sesuai harga kirim lama
 5,barang berfungsi dengan baik..,positive,barang fungsi baik
-1,"jangan beli dari toko ini. earphone rusak, chat lama/bertele2 sehingga lewat batas waktu complain. tidak bisa tukar barang yg sempurna. diminta kembalikan barang utk refu...",negative,jangan beli toko rusak chat lama tele lewat batas waktu komplain tidak tukar barang sempurna minta kembali barang refu
+1,"jangan beli dari toko ini. earphone rusak, chat lama/bertele2 sehingga lewat batas waktu complain. tidak bisa tukar barang yg sempurna. diminta kembalikan barang utk refu...",negative,jangan beli toko rusak chat lama tele lewat batas waktu komplain tidak tukar barang sempurna minta barang refu
 5,"mantul, barang original. sudah dicoba suara jernih. pengiriman dan respon seller juga cepat. makasih tokped dan seller.",positive,mantap betul barang original coba suara jernih kirim respon jual cepat terima kasih tokopedia jual
 5,"pengiriman cepat,barang sesuai barangnya original 👍 suaranya jernih",positive,kirim cepat barang sesuai barang original suara jernih
 4,barang nyampe aman cuma pengiriman lumayan lama,positive,barang aman cuma kirim lumayan lama
@@ -2105,7 +2105,7 @@ rating,comment,sentiment,clean_comment
 5,"respon seller cepat dan baik, barang bagus, packing bagus, pengiriman cepat... recommended",positive,respon jual cepat baik barang bagus packing bagus kirim cepat
 5,"sudah di coba , ok lah lumayan .semoga awet",positive,di coba ok lumayan moga awet
 5,puas😁👍🏻,positive,puas
-4,sudah di terima dengan baik semua normal bisa di gunakan,positive,di terima baik semua normal di guna
+4,sudah di terima dengan baik semua normal bisa di gunakan,positive,di terima baik semua normal di
 3,"warna udah bener, tapi yg kanan kebuka begini. quality control-nya gws dah barang rusak di acc.",neutral,warna udah benar yang kanan buka begini quality kontrol gws dah barang rusak acc
 5,mantul,positive,mantap betul
 5,"bagus carging masuk, bassnya dapet murah tapi bagus mantaap tx seller ..",positive,bagus carging masuk bassnya murah bagus mantap tx jual
@@ -2116,7 +2116,7 @@ rating,comment,sentiment,clean_comment
 5,toko nya amanah banget,positive,toko amanah sangat
 5,murah tapi ngga murahan ..keren,positive,murah tidak murah keren
 5,sesuai ekspektasi 👍,positive,sesuai ekspektasi
-5,mantap .. pembelian kedua saya barang normal suara oke,positive,mantap beli dua barang normal suara oke
+5,mantap .. pembelian kedua saya barang normal suara oke,positive,mantap beli saya barang normal suara oke
 3,tb 5 hari. kualitas suara std.. tpi baterai tdk thn lm... cpt drop.. plg lm 30 mnt,neutral,tiba hari kualitas suara std baterai tidak thn lm cepat drop plg lm menit
 5,"pengiriman cepat, packing baik. kualitas audio oke untuk harganya, staging kurang luas, tapi masih enak. build quality ya sesuai lah untuk harganya. baterai sangat awet,...",positive,kirim cepat packing baik kualitas audio oke harga staging kurang luas masih enak quality sesuai harga baterai sangat awet
 5,barang bermasalah tp bisa kembali uang..,positive,barang masalah bisa uang
@@ -2132,7 +2132,7 @@ rating,comment,sentiment,clean_comment
 4,"barang oke, gk ada masalah sesuai harga.. lumayan untuk dengerin musik",positive,barang oke gak masalah sesuai harga lumayan dengerin musik
 5,mantaaap bedentummm,positive,bedentummm
 5,masi awet sampe sekarang,positive,mas awet sekarang
-3,"bungkusnya dalamnya udh ringsek, tempelan pd wadah headsetnya banyak masuk angin",neutral,bungkus dalam ringsek tempel wadah headsetnya banyak masuk angin
+3,"bungkusnya dalamnya udh ringsek, tempelan pd wadah headsetnya banyak masuk angin",neutral,bungkus sudah ringsek tempel wadah headsetnya banyak masuk angin
 5,bagus dan ngebass barang nya juga awet,positive,bagus ngebass barang juga awet
 5,mendarat dengan selamat dan tampilan baik.suara mantap.... warna sesuai pesanan.. makasihhhhhhhh,positive,darat selamat tampil baik suara mantap warna sesuai pesan makasihhhhhhhh
 5,mantbss,positive,mantbss
@@ -2152,7 +2152,7 @@ rating,comment,sentiment,clean_comment
 5,gudd,positive,gudd
 5,bagus dengan harga segitu murahnya...penjualnya responnya cepat...good ...recomended resselernya,positive,bagus harga segitu murah jual responnya cepat bagus recomended resselernya
 5,"trimakasih sudah diterima, sedang dicoba",positive,terima kasih terima sedang coba
-4,suaranya bagus beli ke 2 karena keponakan minta jadi saya beli lagi. tapi sayang pembelian kedua earphonenya 1 ga berfungsi hanya bs ngecash tp dilepas dr tempat cash lgs...,positive,suara bagus beli karena keponakan minta jadi beli sayang beli dua earphonenya tidak fungsi bisa ngecash tapi lepas tempat cash langsung
+4,suaranya bagus beli ke 2 karena keponakan minta jadi saya beli lagi. tapi sayang pembelian kedua earphonenya 1 ga berfungsi hanya bs ngecash tp dilepas dr tempat cash lgs...,positive,suara bagus beli karena keponakan minta jadi beli sayang beli earphonenya tidak fungsi bisa ngecash tapi lepas tempat cash langsung
 5,"biar gak ribet lagi sama kabel earphone, tws ini bisa jadi alternatif. kualitas suara termasuk lumayan untuk harga segini. coba dipakai 2 jam, baterai masih kuat. pengiri...",positive,biar tidak ribet sama kabel tws bisa jadi alternatif kualitas suara masuk lumayan harga gin coba pakai jam baterai kuat iri
 5,"barangnya sesuai dan bagus,,,kurirnya ramah juga mantapppp pokoknya",positive,barang sesuai bagus kurir ramah mantap pokok
 4,pesen hitam datangnya putih,positive,pesan hitam datang putih
@@ -2172,15 +2172,15 @@ rating,comment,sentiment,clean_comment
 4,"yang dateng ga sesuai pesanan, beda tipe, ya sudah lah apa boleh buat.. beli bbm eceran dulu lah kalo gitu",positive,datang tidak sesuai pesan beda tipe sudah apa buat beli bbm ecer dulu kalo
 5,"barangnya bagus, respon pembeli cepat, pengiriman juga cepat, ok banget deh",positive,barang bagus respon beli cepat kirim cepat ok sangat deh
 1,kapan aku beli ini ya?,negative,kapan beli ya
-4,"nambahin, saat buyer memesan harusnya tersedia opsi pilihan warna, biar gak terkesan 'nipu' di display hitam yg sampai putih. buat kualitas sih lumayan sesuai har...",positive,nambahin buyer mes harus sedia opsi pilih warna biar tidak kes nipu display hitam sampai putih buat kualitas sih lumayan sesuai har
+4,"nambahin, saat buyer memesan harusnya tersedia opsi pilihan warna, biar gak terkesan 'nipu' di display hitam yg sampai putih. buat kualitas sih lumayan sesuai har...",positive,nambahin buyer mes sedia opsi pilih warna biar tidak kes nipu display hitam sampai putih buat kualitas sih lumayan sesuai har
 5,mantap gan sesuai dengan gambar joss,positive,mantap juragan sesuai gambar mantap
 5,terima kasih barang sudah sampai,positive,terima kasih barang sampai
 5,barangnya original 👍,positive,barang original
 5,"bagus barangnya,,, berfungsi dengan baik",positive,bagus barang fungsi baik
 5,"saya pengguna kz zsn pro yang kabel. beli ini sebenernya untuk dengerin kajian atau murottal saat kerja di kantor. tapi dicoba denger musik, lumayan juga untuk harga diba...",positive,guna kz zsn pro kabel beli sebenernya dengerin kaji murottal kerja kantor coba dengar musik lumayan untuk harga diba
-5,"brg sesuai disp. utk pemakaian putar musik ± 4jam. suara ok, stereo, seimbang vokal, treble basnya... secara keseluruhan ok. hanya earphone kiri kanan kelihatannya sama...",positive,barang sesuai disp pakai putar musik jam suara ok stereo imbang vokal treble bas seluruh ok kiri kanan lihat sama
-5,kondisi bagus. barang sesuai ekspetasi.,positive,kondisi bagus barang sesuai ekspetasi
-3,mati sebelah tapi ya sudahlah...,neutral,mati belah ya sudah
+5,"brg sesuai disp. utk pemakaian putar musik ± 4jam. suara ok, stereo, seimbang vokal, treble basnya... secara keseluruhan ok. hanya earphone kiri kanan kelihatannya sama...",positive,barang sesuai disp pakai putar musik jam suara ok stereo imbang vokal treble bas cara seluruh ok kiri kanan lihat sama
+5,kondisi bagus. barang sesuai ekspetasi.,positive,kondisi bagus barang sesuai ekspektasi
+3,mati sebelah tapi ya sudahlah...,neutral,mati belah ya
 3,warna tidak sesuai gambar,neutral,warna tidak sesuai gambar
 1,baru di pakai 3 hari yang 1 ngecas gak full 30% respon balas juga lambat,negative,baru pakai hari ngecas tidak full respon balas lambat
 5,barangnya original 👍,positive,barang original
@@ -2195,7 +2195,7 @@ rating,comment,sentiment,clean_comment
 5,tks,positive,terima kasih
 2,sebelah kiri tidak berfungsi.. sudah di charge tetap tidak bisa.. mungkin ada solusi dari kaka penjual nya?,negative,belah kiri tidak fungsi di charge tetap tidak mungkin solusi kaka jual
 5,amanah kwalitas dan cepat,positive,amanah kualitas cepat
-1,tws mati sebelah.dicas ndk mau penuh.bluetooth tidak terconect.sebelum pencet selesai harusnya dicek dulu.karena tdk bisa diretur.berarti barang yg dikirim tidak di qc du...,negative,tws mati belah cas ndk mau penuh bluetooth tidak terconect pencet selesai harus cek dulu tidak retur arti barang kirim tidak qc du
+1,tws mati sebelah.dicas ndk mau penuh.bluetooth tidak terconect.sebelum pencet selesai harusnya dicek dulu.karena tdk bisa diretur.berarti barang yg dikirim tidak di qc du...,negative,tws mati belah cas ndk mau penuh bluetooth tidak terconect pencet selesai cek dulu tidak retur arti barang kirim tidak qc du
 5,trimks,positive,trimks
 5,barang oce,positive,barang oce
 5,"so far bagus, semoga awet",positive,so jauh bagus moga awet
@@ -2209,8 +2209,8 @@ rating,comment,sentiment,clean_comment
 5,"mantap, barang bagus dan baterai awet",positive,mantap barang bagus baterai awet
 5,"barang sesuai deskripsi, packing aman, harga sesuai",positive,barang sesuai deskripsi packing aman harga sesuai
 5,barangnya original 👍 suaranya jernih nyaman dipakai lama ada garansi resmi koneksi bluetooth kuat desainnya modern 😍 material premium baterai tahan lama noise cancellat...,positive,barang original suara jernih nyaman pakai lama garansi resmi koneksi bluetooth kuat desain modern material premium baterai tahan lama noise cancellat
-5,"cepat sampainya , packing lumayan bagus kurir ramah , top seler dah ..thx tokopedia",positive,cepat sampai packing lumayan bagus kurir ramah baik jual dah terima kasih tokopedia
-2,"kondisi barang baek mulus,, tpi 1 dri 2 headset ny seperti ada suara angin brisik ,,spertinya rusak,",negative,kondisi barang baik mulus dari headset ny ada suara angin brisik spertinya rusak
+5,"cepat sampainya , packing lumayan bagus kurir ramah , top seler dah ..thx tokopedia",positive,cepat packing lumayan bagus kurir ramah baik jual dah terima kasih tokopedia
+2,"kondisi barang baek mulus,, tpi 1 dri 2 headset ny seperti ada suara angin brisik ,,spertinya rusak,",negative,kondisi barang baik mulus dari headset seperti suara angin brisik spertinya rusak
 5,"barang sesuai pesanan,, suaranya bagus, berfungsi semoga awet kabelnya kuat",positive,barang sesuai pesan suara bagus fungsi moga awet kabel kuat
 5,"barang udah terima. enak banget d dengar d telinga, jernih. walau agak lama gak masalah sich. kurirx ramah dan bersahabat. sukses selalu ya buat resellernya. yg mau pake...",positive,barang udah terima enak sangat dengar telinga jernih agak lama tidak masalah sich kurirx ramah sahabat sukses selalu buat resellernya mau pake
 5,lumayan tapi kadang suka mati idup sendiri walaupun sdh di charge,positive,lumayan kadang suka mati hidup sendiri walaupun di charge
@@ -2221,7 +2221,7 @@ rating,comment,sentiment,clean_comment
 4,keren,positive,keren
 5,product bagus pengiriman cepat sukses terus bossku,positive,bagus kirim cepat sukses terus bos
 5,top...,positive,baik
-5,"barang bagus secara fisik sesuai harga, semoga berfungsi seperti yg diharapkan (belum ditest) pelayanan super baik super respon super cepat ... layak bintang 5",positive,barang bagus fisik sesuai harga moga fungsi yang harap tes layan super baik super respon super cepat layak bintang
+5,"barang bagus secara fisik sesuai harga, semoga berfungsi seperti yg diharapkan (belum ditest) pelayanan super baik super respon super cepat ... layak bintang 5",positive,barang bagus cara fisik sesuai harga moga fungsi yang harap tes layan super baik super respon super cepat layak bintang
 5,barang sesuai harga,positive,barang sesuai harga
 3,kurang proaktif seler nya,neutral,kurang proaktif jual
 5,insya allah amanah,positive,insya allah amanah
@@ -2298,7 +2298,7 @@ rating,comment,sentiment,clean_comment
 1,"baru 1 hari sudah tidak berfungsi.. pas baru sampai, lgsg coba suaranya kecil, kurang baik. apakah kalo seperti ini bs ditukar?",negative,baru hari tidak fungsi pas baru langsung coba suara kecil kurang baik kalo ini tukar
 5,mantap👍👍👍👍👍👍,positive,mantap
 3,"gabisa dipakai, barang rusak",neutral,tidak pakai barang rusak
-5,"headset bgs, berfungsi dgn baek,. semga awet.",positive,headset bagus fungsi baik semga awet
+5,"headset bgs, berfungsi dgn baek,. semga awet.",positive,headset bagus fungsi baik moga awet
 4,"barang oke, kabel cas gak berfungsi",positive,barang oke kabel cas tidak fungsi
 5,mantul n thx gan,positive,mantap betul terima kasih juragan
 5,mantul,positive,mantap betul
@@ -2310,7 +2310,7 @@ rating,comment,sentiment,clean_comment
 1,hensetnya 1 nya mati,negative,headsetnya mati
 5,alhamdulillh berfungsi dengan semestinya..terimksh,positive,alhamdulillh fungsi mesti terimksh
 5,"sampe cepet banget klo tujuan kalimantan, sayang kotaknya hancur, semoga ga berpengaruh sama isinya, dan juga semoga awet",positive,cepat sangat kalo tuju kalimantan sayang kotak hancur moga tidak pengaruh sama isi juga moga awet
-3,"maaf sudah kasih bintang 3, karena sudah sampai dan indikator batrai tws setiap sisinya tidak nyala, mau ajukan penukaran barang tapi udah males, tolong quality control...",neutral,maaf kasih bintang sudah dan indikator baterai tws sisi tidak nyala mau aju tukar barang udah males quality kontrol
+3,"maaf sudah kasih bintang 3, karena sudah sampai dan indikator batrai tws setiap sisinya tidak nyala, mau ajukan penukaran barang tapi udah males, tolong quality control...",neutral,maaf kasih bintang sudah dan indikator baterai tws tiap sisi tidak nyala mau aju tukar barang udah males quality kontrol
 5,berfungsi ke 2 nya. suara sesuai harga lumayanlah,positive,fungsi nya suara sesuai harga lumayan
 5,mantap,positive,mantap
 5,bagus,positive,bagus
