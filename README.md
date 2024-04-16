@@ -41,11 +41,9 @@ We removed a handful instances of a singular letter that doesn't have any meanin
 ## Data Annotation
 In this project, the rating of the reviews determine their sentiment. Below are the rules:
 
-><span style="color:magenta; font-weight:bold">IF</span> rating < 3 <span style="color:magenta; font-weight:bold">THEN</span> sentiment = negative
-<br>
-<span style="color:magenta; font-weight:bold">ELSE IF</span> rating = 3 <span style="color:magenta; font-weight:bold">THEN</span> sentiment = neutral
-<br>
-<span style="color:magenta; font-weight:bold">ELSE IF</span> rating > 3 <span style="color:magenta; font-weight:bold">THEN</span> sentiment = positive
+>IF rating < 3 THEN sentiment = negative
+<br>ELSE IF rating = 3 THEN sentiment = neutral
+<br>ELSE IF rating > 3 THEN sentiment = positive
 
 ## Modelling
 For this project we used **IndoBERT-base-p1** as the base model for the sentiment analysis model. IndoBERT is a state-of-the-art language model for Inodnesian Langugage based on the BERT model. The pretrained model is trained using a masked language modeling (MLM) objective and next sentence prediction (NSP) objective.
