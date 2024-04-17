@@ -46,4 +46,4 @@ In this project, the rating of the reviews determine their sentiment. Below are 
 <br>ELSE IF rating > 3 THEN sentiment = positive
 
 ## Modelling
-For this project we used **IndoBERT-base-p1** as the base model for the sentiment analysis model. IndoBERT is a state-of-the-art language model for Inodnesian Langugage based on the BERT model. The pretrained model is trained using a masked language modeling (MLM) objective and next sentence prediction (NSP) objective.
+For this project we used **IndoBERT-base-p1** as the base model for the sentiment analysis model. IndoBERT is a state-of-the-art language model for Indonesian Langugage based on the BERT model. The pretrained model is trained using a masked language modeling (MLM) objective and next sentence prediction (NSP) objective.
